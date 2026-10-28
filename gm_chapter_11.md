@@ -2,7 +2,7 @@
 
 [← Index](README.md) · [Synopsis](gm_story_synopsis.md) · [Glossary](gm_glossary.md) · [← Ch 10](gm_chapter_10.md) · **Ch 11** · [Ch 12 →](gm_chapter_12.md)
 
-> **How to use this doc:** Read it once before the session. At the table, scan stat lines, DCs, and read-alouds, and skip the callouts (icons per the [Chapter 1 key](gm_chapter_1.md)). Page numbers are *Jewel of the Indigo Isles* pages. **BB** = *Battlezoo Bestiary*.
+> **How to use this doc:** Read it once before the session. At the table, scan the stat lines, DCs, and read-alouds. Skip the callouts. The [Chapter 1 key](gm_chapter_01.md) explains the icons. Page numbers are *Jewel of the Indigo Isles* pages. **BB** = *Battlezoo Bestiary*.
 
 ---
 
@@ -25,7 +25,14 @@
 
 ## The chapter in one minute
 
-The caverns belong to the elder sapphire drake [Aylushrixa the Azure Inferno](#y4--sapphire-chamber-moderate-9), and the cult pays her to kill intruders. Past her, the cult's headquarters (a refurbished ancient mine) is nearly empty: everyone is downstairs at a ritual. The PCs pass a trapped parlor and the inventor [Falarni Malabria](#z7--malabrias-workshop-severe-9), search the leaders' bedrooms, and fight the demon [Zaroz](gm_glossary.md#zaroz) in the shrine. They reach the ritual too late. Behind a force barrier, [Prince Kulupi](gm_glossary.md#prince-kulupi) unhoods, gloats, and raises the undead shale behemoth. The cavern collapses, the cult attacks, and the PCs flee by runaway mine cart, beat one cart of pursuers, and ride [Peerless Ruby](gm_glossary.md#peerless-ruby) home to [Rumplank](gm_glossary.md#rumplank).
+The caverns belong to the elder sapphire drake [Aylushrixa the Azure Inferno](#y4--sapphire-chamber-moderate-9). The cult pays her to kill intruders. Past her is the cult's headquarters, an old mine the cult fixed up. It is nearly empty, because everyone is downstairs at a ritual.
+
+- The PCs pass a trapped parlor and the inventor [Falarni Malabria](#z7--malabrias-workshop-severe-9).
+- They search the leaders' bedrooms.
+- They fight the demon [Zaroz](gm_glossary.md#zaroz) in the shrine.
+- They reach the ritual too late. Behind a force barrier, [Prince Kulupi](gm_glossary.md#prince-kulupi) pulls back his hood, gloats, and raises the undead shale behemoth.
+- The cavern collapses and the cult attacks. The PCs flee in a runaway mine cart and beat one cart of pursuers.
+- They ride [Peerless Ruby](gm_glossary.md#peerless-ruby) home to [Rumplank](gm_glossary.md#rumplank).
 
 **By the end the PCs have:**
 1. **Crossed the Embattled Caverns** (area Y).
@@ -36,7 +43,7 @@ The caverns belong to the elder sapphire drake [Aylushrixa the Azure Inferno](#y
 
 **Party level:** starts at **9**, ends at **10**. Milestone: *Escaping the Cult Complex* (p. 11).
 
-> **🎯 Why this chapter exists:** It pays off every Kulupi hint since Chapter 1 as a squeeze: empty-base crawl, unstoppable speech, frantic escape, one breath of relief in the sky. It also previews Chapter 12's foes: armies, a 400-foot undead behemoth, and the three cult leaders.
+> **🎯 Why this chapter exists:** It pays off every Kulupi hint since Chapter 1. The pressure builds in steps: a crawl through an empty base, a speech the PCs can't stop, a wild escape, and one breath of relief in the sky. It also shows Chapter 12's foes: armies, a 400-foot undead behemoth, and the three cult leaders.
 
 [↑ Back to top](#table-of-contents)
 
@@ -44,9 +51,9 @@ The caverns belong to the elder sapphire drake [Aylushrixa the Azure Inferno](#y
 
 ## Coming in from Ch 10
 
-**Party state:** The PCs left the rescued victims in [Peerless Ruby](gm_glossary.md#peerless-ruby)'s galtzagorri village, Pliticori, fought a vitavore in Event 27, and end Chapter 10 a few hours from the cave entrance (p. 281).
+**Party state:** The PCs left the rescued victims in Pliticori, [Peerless Ruby](gm_glossary.md#peerless-ruby)'s galtzagorri village. They fought a vitavore in Event 27. They end Chapter 10 a few hours from the cave entrance (p. 281).
 
-- **Rest first.** They arrive in the evening or early morning. The book advises resting first, and a bad cavern run may need a day's rest, likely at the end of area Y (p. 282).
+- **Rest first.** They arrive in the evening or early morning. The book says to rest first. A bad run through the caverns may need a day's rest, likely at the end of area Y (p. 282).
 - **Pliticori Village** is a little less than a day back (p. 282).
 
 > **⚠️ Gotcha:** Chapter 10 says "a full day's journey from area Y" (p. 269). Either way, going back costs a day the PCs don't have.
@@ -55,7 +62,7 @@ The caverns belong to the elder sapphire drake [Aylushrixa the Azure Inferno](#y
 
 | From | What | Where it pays off |
 |---|---|---|
-| Ch 3 | **Inglomeonite**, the Shiverskull Cave ferropaceon | His rival Sarganx (Y2). How the PCs talk about him shifts the DC |
+| Ch 3 | **Inglomeonite**, the Shiverskull Cave ferropaceon | His rival Sarganx (Y2). How the PCs talk about him changes the DC |
 | Act 2 | Kulupi's intelligence on the PCs (p. 287) | Aylushrixa (Y4) knows their looks, gear, and tactics |
 | Ch 9 | The Founder's Day arsonists | Falarni (Z7) admits she hired them |
 | Ch 9 | Kulupi and [Atriella](gm_glossary.md#princess-atriella) "kidnapped" | Kulupi leads the ritual. Atriella lies unconscious by the altar |
@@ -73,15 +80,19 @@ A straight line (p. 282–305):
 
 | Part | What it is | Order |
 |---|---|---|
-| **Embattled Caverns (Y1–Y5)** | An ambush (Y1), two talkable encounters (Y2, Y3), and a drake who won't deal (Y4) | Mostly linear. Velluris (Y3) is behind a barricade down a side tunnel. Y5 is a dead end |
+| **Embattled Caverns (Y1–Y5)** | An ambush (Y1), two encounters the PCs can talk through (Y2, Y3), and a drake who won't deal (Y4) | Mostly in a line. Velluris (Y3) is behind a barricade down a side tunnel. Y5 is a dead end |
 | **Cult Complex (Z1–Z19)** | Guard animals, a trap room, an inventor, empty bedrooms full of clues, a shrine with a demon | Free order. Z19's stairs are one-way |
 | **Royal Betrayal** | The ritual and Kulupi's reveal, behind a force barrier | Scripted scene |
 | **Minecart Escape** | Six obstacles, then Event 28, a fight between moving carts | Fixed sequence |
 | **Out from the Mountain's Heart** | Peerless Ruby flies the PCs to Rumplank | Closing scene |
 
-> **💡 GM tip — the book's pacing advice:** This and Chapter 12 are the finale, and the book says keep the tension up (p. 283). It suggests reading through Chapter 12 first, and ending a session right before Royal Betrayal, then running reveal, chase, and flight in one session (p. 301). Chase fast, exhale on the dragon.
+> **💡 GM tip (the book's pacing advice):** This chapter and Chapter 12 are the finale. The book says to keep the tension up (p. 283). It suggests two things (p. 301):
+> - Read through Chapter 12 first.
+> - End a session right before Royal Betrayal. Then run the reveal, the chase, and the flight in one session.
+>
+> Run the chase fast. Let everyone relax on the dragon.
 
-> **💡 GM tip — the "point of no return":** Nobody comes back up the Z19 stairs. The book says their ominous aura should warn completionists to finish other rooms first (p. 299). Say so if they're about to skip the bedrooms.
+> **💡 GM tip (the "point of no return"):** Nobody comes back up the Z19 stairs. The book says the stairs feel ominous. That should warn players who like to clear every room to finish the other rooms first (p. 299). Tell them if they're about to skip the bedrooms.
 
 [↑ Back to top](#table-of-contents)
 
@@ -89,67 +100,76 @@ A straight line (p. 282–305):
 
 ## PF2 rules new in this chapter
 
-Covered in Chapter 1: [degrees of success](gm_chapter_1.md#degrees-of-success), [encounter XP](gm_chapter_1.md#encounter-difficulty-and-xp), [basic saves](gm_chapter_1.md#basic-saving-throws), [secret checks and Recall Knowledge](gm_chapter_1.md#secret-checks-and-recall-knowledge), [flat checks](gm_chapter_1.md#flat-checks), [the Chapter 1 conditions](gm_chapter_1.md#conditions-youll-see-this-chapter), [movement, cover, and Grab an Edge](gm_chapter_1.md#movement-and-terrain), [hazards](gm_chapter_1.md#hazards), and [Monster Parts](gm_chapter_1.md#monster-parts-treasure-system).
+Covered in Chapter 1: [degrees of success](gm_chapter_01.md#degrees-of-success), [encounter XP](gm_chapter_01.md#encounter-difficulty-and-xp), [basic saves](gm_chapter_01.md#basic-saving-throws), [secret checks and Recall Knowledge](gm_chapter_01.md#secret-checks-and-recall-knowledge), [flat checks](gm_chapter_01.md#flat-checks), [the Chapter 1 conditions](gm_chapter_01.md#conditions-youll-see-this-chapter), [movement, cover, and Grab an Edge](gm_chapter_01.md#movement-and-terrain), [hazards](gm_chapter_01.md#hazards), and [Monster Parts](gm_chapter_01.md#monster-parts-treasure-system).
 
 ### Threat math at level 9
 
-[XP rules](gm_chapter_1.md#encounter-difficulty-and-xp) at party level 9: level 7 = 20 XP, level 9 = 40, level 10 = 60, level 11 = 80.
+[XP rules](gm_chapter_01.md#encounter-difficulty-and-xp) at party level 9: level 7 = 20 XP, level 9 = 40, level 10 = 60, level 11 = 80.
 
 - **Y1:** three hook hangers (level 7, 20 each) = 60 = **Low**.
-- **Y4:** Aylushrixa (level 11, 80) plus three sapphire beacons (simple level-8 hazards, 30 ÷ 5 = 6 each) = 98, between Moderate and Severe. The book calls it **Moderate**.
-- **Z7:** Falarni (level 10, 60) plus bodyguard (level 9, 40) = 100, plus ant swarms (level 3, six below the party, off the XP table). The book calls it **Severe** because she can keep making swarms and healing. Use that.
+- **Y4:** Aylushrixa (level 11, 80) plus three sapphire beacons = 98. The beacons are simple level-8 hazards, worth 30 ÷ 5 = 6 each. 98 falls between Moderate and Severe. The book calls it **Moderate**.
+- **Z7:** Falarni (level 10, 60) plus bodyguard (level 9, 40) = 100. The ant swarms are level 3. That's six below the party, so they're off the XP table. The book calls it **Severe** because she can keep making swarms and healing. Use that.
 - **Z19:** two guards (level 7, 20 each) plus Zaroz (level 9, 40) = 80 = **Moderate**.
 
 ### Rules from earlier chapters
 
 Full rules at each link. Where they show up here:
-- **Slowed:** [Chapter 4](gm_chapter_4.md#slowed-and-fatigued). Aylushrixa's Bone-Shaking Hum (Y4) and Zaroz's All That Glitters (Z19).
-- **Fatigued:** [Chapter 3](gm_chapter_3.md#conditions-new-this-chapter). Every PC who tears down Velluris's barricade the slow way (Y3).
-- **Deafened:** [Chapter 3](gm_chapter_3.md#conditions-new-this-chapter). Obstacle 3b on a failure, permanently on a critical failure.
-- **Stupefied and quickened:** [Chapter 5](gm_chapter_5.md#conditions-new-this-chapter). Stupefied from the Z6 Confounding Powder and Obstacle 6b. Falarni's Overclock quickens her.
-- **Grabbed:** [Chapter 7](gm_chapter_7.md#conditions-new-this-chapter). The Y1 hook hangers.
-- **Concealed:** [Chapter 2](gm_chapter_2.md#concealed-hidden-and-undetected). Velluris's Spore Cloud, against non-adjacent creatures.
-- **Persistent damage and bleed:** [Chapter 6](gm_chapter_6.md#persistent-damage-and-bleed). Each Z7 ant swarm's Swarming Bites deals 2 persistent bleed.
-- **Weakness and resistance:** [Chapter 3](gm_chapter_3.md#weakness-resistance-and-immunity). Aylushrixa resists fire, piercing, and slashing 10. A PC lit by a Y4 beacon has weakness 10 to fire for 1 minute, so her breath deals 10 extra.
-- **Incapacitation:** [Chapter 8](gm_chapter_8.md#the-incapacitation-trait). Bone-Shaking Hum has it, but she outlevels the PCs (11 vs. 9), so no benefit.
-- **Swarms:** [Chapter 2](gm_chapter_2.md#swarms). Z7 ant swarms are weak to area and splash damage and resist weapons. A *fireball* beats a sword.
-- **Counteracting:** [Chapter 3](gm_chapter_3.md#counteracting). 5th-level *dispel magic* vs. **counteract DC 29** disables Repel Heretics (Z2).
-- **Darkness and vision:** [Chapter 7](gm_chapter_7.md#darkness-and-vision). Area Y is dark unless noted (Y1 dim). From Z2 on the complex is well lit, which costs Velluris several abilities.
+- **Slowed:** [Chapter 4](gm_chapter_04.md#slowed-and-fatigued). Aylushrixa's Bone-Shaking Hum (Y4) and Zaroz's All That Glitters (Z19).
+- **Fatigued:** [Chapter 3](gm_chapter_03.md#conditions-new-this-chapter). Every PC who tears down Velluris's barricade the slow way (Y3).
+- **Deafened:** [Chapter 3](gm_chapter_03.md#conditions-new-this-chapter). Obstacle 3b on a failure, permanently on a critical failure.
+- **Stupefied and quickened:** [Chapter 5](gm_chapter_05.md#conditions-new-this-chapter). Stupefied from the Z6 Confounding Powder and Obstacle 6b. Falarni's Overclock quickens her.
+- **Grabbed:** [Chapter 7](gm_chapter_07.md#conditions-new-this-chapter). The Y1 hook hangers.
+- **Concealed:** [Chapter 2](gm_chapter_02.md#concealed-hidden-and-undetected). Velluris's Spore Cloud, against non-adjacent creatures.
+- **Persistent damage and bleed:** [Chapter 6](gm_chapter_06.md#persistent-damage-and-bleed). Each Z7 ant swarm's Swarming Bites deals 2 persistent bleed.
+- **Weakness and resistance:** [Chapter 3](gm_chapter_03.md#weakness-resistance-and-immunity). Aylushrixa resists fire, piercing, and slashing 10. A Y4 beacon can light up a PC. That PC has weakness 10 to fire for 1 minute, so her breath deals 10 extra.
+- **Incapacitation:** [Chapter 8](gm_chapter_08.md#the-incapacitation-trait). Bone-Shaking Hum has it. She is a higher level than the PCs (11 vs. 9), so it gives them no benefit.
+- **Swarms:** [Chapter 2](gm_chapter_02.md#swarms). Z7 ant swarms are weak to area and splash damage. They resist weapons. A *fireball* beats a sword.
+- **Counteracting:** [Chapter 3](gm_chapter_03.md#counteracting). 5th-level *dispel magic* vs. **counteract DC 29** turns off Repel Heretics (Z2).
+- **Darkness and vision:** [Chapter 7](gm_chapter_07.md#darkness-and-vision). Area Y is dark unless noted. Y1 is dim. From Z2 on, the complex is well lit. Bright light takes away several of Velluris's abilities.
 
 The Remaster renamed **flat-footed** to **off-guard**. Same rules.
 
 ### Recharge abilities
 
-"Can't use again for 1d6 rounds": roll on use and count down. Embershard Breath: 1d6 rounds. Crystal Beam: 1d4 rounds, or at once in bright light.
+"Can't use again for 1d6 rounds" means: roll when the creature uses it, then count down.
+- Embershard Breath: 1d6 rounds.
+- Crystal Beam: 1d4 rounds, or right away in bright light.
 
 ### Talking past monsters: Make an Impression, Request, Coerce
 
-- **Make an Impression and Request:** [Chapter 2](gm_chapter_2.md#npc-attitudes-make-an-impression-and-request). Velluris (Y3): DC 32 Diplomacy Request, or DC 29 Make an Impression first to drop it to DC 29.
-- **Coerce** (Intimidation, about 1 minute): on a success the target complies for a while, then turns unfriendly. DC 29 Coerces Velluris.
+- **Make an Impression and Request:** [Chapter 2](gm_chapter_02.md#npc-attitudes-make-an-impression-and-request). Velluris (Y3) takes a DC 32 Diplomacy Request. A DC 29 Make an Impression first drops the Request to DC 29.
+- **Coerce** (Intimidation, about 1 minute): on a success, the target obeys for a while, then turns unfriendly. DC 29 Coerces Velluris.
 
-For the Z1 shale chargers: **Wild Empathy** lets a druid or ranger use Diplomacy on animals ([Chapter 1 refresher](gm_chapter_1.md#event-2--glitterfest-parade-trivial-1)), and the **Group Impression** feat targets several creatures at once.
+For the Z1 shale chargers:
+- **Wild Empathy** lets a druid or ranger use Diplomacy on animals ([Chapter 1 refresher](gm_chapter_01.md#event-2--glitterfest-parade-trivial-1)).
+- The **Group Impression** feat targets several creatures at once.
 
 ### Take Cover
 
-- **Take Cover** (1 action): standard cover becomes greater (+4 to AC, Reflex saves against areas, and Stealth). Next to a feature you could hide behind, or prone, you gain standard cover (+2). Lasts until you move, attack, or fall unconscious. Area Y's stalactites and stalagmites allow it.
+- **Take Cover** (1 action): standard cover becomes greater cover. Greater cover gives +4 to AC, to Reflex saves against areas, and to Stealth.
+- If you are next to something you could hide behind, or prone, you gain standard cover (+2).
+- It lasts until you move, attack, or fall unconscious.
+- Area Y's stalactites and stalagmites allow it.
 
 ### Skill actions you'll see
 
 - **Decipher Writing** (exploration): read cryptic or foreign text. Z16 scrolls.
 - **Track** (Survival, exploration): follow a trail at half speed. Z8.
-- **Search and Seek:** [Chapter 3](gm_chapter_3.md#seek-search-and-secret-doors). The Y4 hoard, the Z6 traps.
-- **Shove:** [Chapter 7](gm_chapter_7.md#escape-disarm-and-shove). PCs can try pushing cultists out of carts in Event 28, where guards Shove free off Shield Block.
+- **Search and Seek:** [Chapter 3](gm_chapter_03.md#seek-search-and-secret-doors). The Y4 hoard, the Z6 traps.
+- **Shove:** [Chapter 7](gm_chapter_07.md#escape-disarm-and-shove). In Event 28, PCs can try pushing cultists out of carts. The guards there get a free Shove when they Shield Block.
 - **Leap** (1 action): up to 10 feet horizontally, or 15 with Speed 30 or more. Cart to cart in Event 28.
 
 ### Alignment damage
 
-Pre-Remaster **chaotic**, **lawful**, **good**, and **evil** damage hurts only the opposite alignment (the Remaster removed it). **Chaotic damage harms only lawful creatures**, so Obstacle 5b's 8d6 chaotic spares neutral and chaotic PCs. Good damage hits Zaroz's weakness good 10.
+This book uses pre-Remaster **chaotic**, **lawful**, **good**, and **evil** damage. The Remaster removed it. Each type hurts only the opposite alignment.
+- **Chaotic damage harms only lawful creatures.** Obstacle 5b's 8d6 chaotic doesn't hurt neutral or chaotic PCs.
+- Good damage hits Zaroz's weakness good 10.
 
 ### The mine cart chase (this book's subsystem)
 
-The book's own subsystem, distinct from the *Gamemastery Guide* chase (p. 303):
-1. **Six obstacles**, each with **a** and **b** versions. Before each, a PC can throw a lever to pick. Otherwise roll 1d4: 1–2 is **a**, 3–4 is **b**.
-2. **Each PC** attempts **one** listed check. You can allow another skill if the player argues well.
+This is the book's own subsystem. It is different from the *Gamemastery Guide* chase (p. 303).
+1. **Six obstacles**, each with **a** and **b** versions. Before each one, a PC can throw a lever to pick. Otherwise roll 1d4: 1–2 is **a**, 3–4 is **b**.
+2. **Each PC** attempts **one** listed check. You can allow another skill if the player makes a good case.
 3. **Each PC who fails** takes the listed consequence. Success does nothing extra unless noted.
 4. About **a minute** between obstacles: quick healing, not Treat Wounds.
 5. After Obstacle 6, run **Event 28**, a combat.
@@ -160,14 +180,14 @@ The book's own subsystem, distinct from the *Gamemastery Guide* chase (p. 303):
 
 ## Part 1 — The Embattled Caverns (area Y)
 
-A sapphire drake rules the caverns leading to the compound (p. 282). The trail is easy: despite the previous day's downpour, footprints fill the mud, and the entrance is filthy from cultists wiping their feet.
+A sapphire drake rules the caverns that lead to the compound (p. 282). The trail is easy to follow. It rained hard the day before, but footprints still fill the mud. The entrance is filthy from cultists wiping their feet.
 
 **Cavern features (p. 283):**
-- Leftover corundum from long-stripped gems makes the walls twinkle in light, which drew Aylushrixa.
+- Miners took the gems long ago. Leftover corundum makes the walls twinkle in light. That sparkle drew Aylushrixa here.
 - **Dark** unless noted. **Caverns** about **30 feet** high, **tunnels** **15 feet**.
 - **Stalactites and stalagmites** on the map give cover and allow Take Cover.
 
-**The passphrase:** Cultists announce themselves with it, and the drake escorts them past the dangers. No cultist gives it up willingly, and even if the PCs learn it, she knows their faces (see Y4).
+**The passphrase:** Cultists say it when they arrive, and the drake leads them past the dangers. No cultist gives it up willingly. Even if the PCs learn it, she knows their faces (see Y4).
 
 ### Map quick reference
 
@@ -187,14 +207,14 @@ A sapphire drake rules the caverns leading to the compound (p. 282). The trail i
 
 Light from outside gives **dim light** in the tunnel.
 
-**Hook Hangers (3)** — BB 42, Creature 7. Initiative: Perception +15, Stealth +17. Monster Parts 45/100/180 gp each.
-- Too scared of the drake and the Y2 ferropaceon to go deeper, they clear out and cower when they hear the drake coming.
-- Outsiders get ambushed: **Drop the Hammer** from the ledges, **Grab**, **Twist and Snap**. Eerie silence, Aklo sign language if needed.
-- **If plainly outclassed:** they flee and hide, watch the drake fight, and might swoop in on the winner.
+**Hook Hangers (3):** BB 42, Creature 7. Initiative: Perception +15, Stealth +17. Monster Parts 45/100/180 gp each.
+- They fear the drake and the Y2 ferropaceon too much to go deeper. When they hear the drake coming, they clear out and hide.
+- They ambush outsiders: **Drop the Hammer** from the ledges, then **Grab**, then **Twist and Snap**. They stay eerily silent and use Aklo sign language if needed.
+- **If the PCs clearly outmatch them:** they flee and hide. They watch the drake fight and might swoop in on the winner.
 
-> **⚠️ Gotcha:** Survivors can return after the Y4 fight, when the PCs are hurt. Track how many fled.
+> **⚠️ Gotcha:** Survivors can come back after the Y4 fight, when the PCs are hurt. Track how many fled.
 
-> **🧩 Sets up:** The grooves lead to Y2, where Sarganx piled this section's ripped-up tracks. Mine carts return at the chapter's end.
+> **🧩 Sets up:** The grooves lead to Y2. Sarganx piled up the ripped-up tracks from this section there. Mine carts come back at the chapter's end.
 
 ---
 
@@ -202,26 +222,27 @@ Light from outside gives **dim light** in the tunnel.
 
 > *A huge pile of rusted old mining equipment, clearly centuries old, litters the ground in this large cavern. Strikingly, this pile of equipment also includes hundreds of feet worth of ripped-up minecart tracks. A large creature rests upon the pile, with a similar appearance to Inglomeonite, the magnetic creature from Shiverskull Cave.*
 
-- **Terrain:** the pile (all this stretch's mining gear) is **greater difficult terrain**. Creatures on it can **Take Cover** against burrowing attackers.
+- **Terrain:** the pile holds all the mining gear from this stretch. It is **greater difficult terrain**. Creatures on it can **Take Cover** against burrowing attackers.
 
-**Sarganx** (they/them) — ferropaceon, BB 31, Creature 10. Initiative: Perception +18. Monster Parts 125/275/500 gp.
-- A magnetic earth elemental who tore up the tracks themself. Truce with the drake: neither wants the other's treasure.
-- Not malicious, but fiercely territorial: they destroy anyone who messes with their magnetic spoils.
+**Sarganx** (they/them): ferropaceon, BB 31, Creature 10. Initiative: Perception +18. Monster Parts 125/275/500 gp.
+- A magnetic earth elemental. They tore up the tracks themself. They have a truce with the drake, because neither wants the other's treasure.
+- They mean no harm, but they guard their space hard. They destroy anyone who messes with their magnetic loot.
 
 **Negotiating past (p. 284):**
-- Speak carefully **in Terran** and disclaim the treasure: **DC 27 Diplomacy**, or **DC 25** with magnetic tribute.
-- **Inglomeonite** was their bitter rival. Disparaging Inglo: **+2 circumstance bonus**. Claiming friendship: **−2 circumstance penalty**.
+- Speak carefully **in Terran** and say you don't want the treasure: **DC 27 Diplomacy**. With a magnetic gift, it's **DC 25**.
+- **Inglomeonite** was their bitter rival. Insulting Inglo gives a **+2 circumstance bonus**. Claiming to be his friend gives a **−2 circumstance penalty**.
 
 **What Sarganx knows** (shared freely after a successful negotiation):
 - The cult's deal with Aylushrixa, plus her name, title, and personality.
-- A few days ago a frightened olthruni (BB 70) fled the complex, saw Sarganx, and walled himself down a side tunnel with rocks and moss: **Velluris** in Y3.
+- A few days ago, a frightened olthruni (BB 70) fled the complex. He saw Sarganx and walled himself in down a side tunnel with rocks and moss. He is **Velluris** in Y3.
 
-**If it's a fight:** Sarganx starts carrying all **12 Bulk** of magnetic objects. Opens with a maxed **Repulsive Barrage**, then **Hyperpolarization**, another maxed **Repulsive Barrage** if possible, then melee.
+**If it's a fight:** Sarganx starts out carrying all **12 Bulk** of magnetic objects.
+- Turn order: a maxed **Repulsive Barrage**, then **Hyperpolarization**, then another maxed **Repulsive Barrage** if possible, then melee.
 - **Surrender:** below **40 HP**, if the PCs agree not to take the treasure.
 - **Surrendered or befriended,** they charge a **special magnetic shard** worth their full Monster Parts value.
-- **Without Monster Parts:** a standard-grade **silver buckler** instead, shiny but not magnetic, so they don't value it much.
+- **Without Monster Parts:** they give a standard-grade **silver buckler** instead. It's shiny but not magnetic, so they don't value it much.
 
-> **💡 GM tip:** Inglomeonite fans from Chapter 3 choose: stay loyal for the −2, or badmouth him (and maybe lie) for the +2.
+> **💡 GM tip:** Players who liked Inglomeonite in Chapter 3 face a choice. They can stay loyal and take the −2. Or they can badmouth him, and maybe lie, for the +2.
 
 ---
 
@@ -229,22 +250,26 @@ Light from outside gives **dim light** in the tunnel.
 
 > *The end of this tunnel is blocked by a strange barricade, a wall that seems to be organically grown and infused with stones, crystals, and a strange kind of moss.*
 
-Velluris grew this wall to hide until he can kill Aylushrixa. It regrows, so she hasn't bothered breaking it.
+Velluris grew this wall to hide until he can kill Aylushrixa. It grows back, so she hasn't bothered breaking it.
 
 **Getting through (p. 285):**
 - **Fast:** three PCs succeed at **DC 20 Athletics** at once. A critical success counts as two.
-- **Slow:** three or more PCs take **an hour**. All helpers are **fatigued**, and the noise alerts the drake, who ambushes them while they're tired.
+- **Slow:** three or more PCs take **an hour**. All helpers are **fatigued**. The noise alerts the drake, and she ambushes them while they're tired.
 - **Talk:** call through in **Sylvan, Terran, or Undercommon**.
-- **Recall Knowledge:** **DC 25 Nature**: an othruni likely made it recently, plus basics on these cavern fey.
+- **Recall Knowledge:** **DC 25 Nature** shows an othruni likely made it recently. It also gives basic facts about these cavern fey.
 
-**Velluris, othruni ranger** (he/him), came from a nearby cave complex to hunt the drake, beat the Y1 hook hangers, then found Sarganx home on the way out and walled himself in, wounded. He knows the drake and cult are allied, doubts he can kill her alone while she can call on the cult, and knows the cult's rough size but no details.
+**Velluris, othruni ranger** (he/him):
+- He came from a nearby cave complex to hunt the drake. He beat the Y1 hook hangers.
+- On the way out, he found Sarganx at home. Wounded, he walled himself in.
+- He knows the drake and the cult are allies. He doubts he can kill her alone while she can call on the cult.
+- He knows the cult's rough size but no details.
 
-**Velluris** — Creature 10, unique CN Medium fey fungus, p. 286
+**Velluris:** Creature 10, unique CN Medium fey fungus, p. 286
 - **Perception** +20; darkvision. **Languages** Sylvan, Terran, Undercommon
 - **Skills** Athletics +21, Crafting +18, Nature +20, Survival +18
 - **Items** doubling rings, main gauche, *+2 striking warhammer* (10)
 - **AC** 28; **Fort** +19, **Ref** +17, **Will** +20; **HP** 210; **Weaknesses** cold iron 10, fire 10; **Speed** 20 ft, climb 20 ft
-- **Photosensitive Moss.** In bright light he loses his weakness to fire, can't use Spore Cloud, Spore Burst, or his moss pellet Strike, and his Strikes lose their poison damage. This lasts until he leaves the bright light.
+- **Photosensitive Moss.** In bright light, he loses his weakness to fire. He can't use Spore Cloud, Spore Burst, or his moss pellet Strike. His Strikes lose their poison damage. This lasts until he leaves the bright light.
 - **Spore Burst** (reaction). **Trigger:** he takes 10 or more slashing or piercing damage. **Effect:** he uses Spore Cloud, and every creature within 5 feet takes 1d8 poison.
 - **Melee** main gauche +23 (agile, disarm, finesse, magical, parry, poison, versatile S), 2d4+10 piercing plus 2d6 poison
 - **Melee** warhammer +23 (magical, poison, shove), 2d8+10 bludgeoning plus 2d6 poison
@@ -254,20 +279,20 @@ Velluris grew this wall to hide until he can kill Aylushrixa. It regrows, so she
 - **Spore Cloud** (1 action): for 1 round he's concealed from non-adjacent creatures, and any creature that ends its turn within 5 feet takes 1d8 poison.
 - **Twin Parry** (1 action): +2 circumstance bonus to AC until the start of his next turn.
 
-**Making a deal (p. 286):** stubborn like most othruni, he wants the kill himself.
+**Making a deal (p. 286):** he is stubborn, like most othruni. He wants the kill himself.
 - **DC 32 Diplomacy** Request to team up.
-- **DC 29 Diplomacy** Make an Impression, with a solid argument, lowers the Request to **DC 29**. **Critical success:** he agrees grudgingly, no Request needed.
-- **Even on a failure,** he attacks the drake while the PCs decoy or run past, and takes the kill and treasure.
+- **DC 29 Diplomacy** Make an Impression, with a solid argument, lowers the Request to **DC 29**. **Critical success:** he agrees grudgingly, and no Request is needed.
+- **Even on a failure,** he attacks the drake while the PCs act as decoys or run past. He takes the kill and the treasure.
 - **DC 29 Intimidation** Coerces him to help and hand over all the treasure. He leaves after the dragon fight.
-- **Further help:** impressed enough by Diplomacy, he can be convinced to fight the cult in area Z for a treasure share, leaving before the stairs at its end. Pushed further, he lands in a different mine cart and is separated (p. 303).
+- **Further help:** if Diplomacy impresses him enough, the PCs can talk him into fighting the cult in area Z for a share of treasure. He leaves before the stairs at the end of area Z. If the PCs push him further, he ends up in a different mine cart and gets separated (p. 303).
 
-**If it's a fight:** a critical failure to Coerce, antagonizing, or attacking him makes him fight, cornered.
-- **Escape:** if the PCs leave him an easy way out, he takes it below half HP or once hit with cold iron or fire.
-- **Tactics:** the book assumes the PCs brought bright light, so he Crystal Beams two or more PCs each turn, lined up with Skirmish Strike. Without bright light, Strikes while it recharges.
+**If it's a fight:** he fights like a cornered animal if the PCs critically fail to Coerce him, provoke him, or attack him.
+- **Escape:** the PCs may leave him an easy way out. He takes it below half HP, or once he's hit with cold iron or fire.
+- **Tactics:** the book assumes the PCs brought bright light. So each turn he uses Crystal Beam on two or more PCs, lined up with Skirmish Strike. Without bright light, he Strikes while the beam recharges.
 
-> **⚠️ Gotcha — the spelling:** The book uses both "othruni" and "olthruni" (BB 70). Same creature.
+> **⚠️ Gotcha (the spelling):** The book uses both "othruni" and "olthruni" (BB 70). Same creature.
 
-> **💡 GM tip:** A deal with Velluris makes the drake fight three-way. If the PCs capture Aylushrixa and want to spare her, he may try to kill her anyway, but won't attack the PCs and surrenders if they insist (p. 287).
+> **💡 GM tip:** A deal with Velluris turns the drake fight into a three-way fight. The PCs may capture Aylushrixa and want to spare her. He may try to kill her anyway. He won't attack the PCs, and he surrenders if they insist (p. 287).
 
 ---
 
@@ -277,13 +302,15 @@ Velluris grew this wall to hide until he can kill Aylushrixa. It regrows, so she
 >
 > *"Hmm, you're the ones they told me about, then? Good! This should be fun. Prepare to die," she calls out as she prepares to attack.*
 
-Corundum dust and magic lights make the glow: cheaper than sapphire, but she loves the color.
+Corundum dust and magic lights make the glow. They're cheaper than sapphire, but she loves the color.
 
-**Aylushrixa the Azure Inferno** (she/her) predates the cult here and means to outlast it. Greedy, ill-tempered, and cruel, but **she keeps her agreements and hates treachery**. For treasure and respect, she lets cultists pass and kills everyone else.
-- **She knows the PCs** from Kulupi's Act 2 intelligence, via Zaroz and Zellura. Posing as cultists fails, above all without the passphrase.
+**Aylushrixa the Azure Inferno** (she/her) lived here before the cult came. She plans to outlast it.
+- She is greedy, bad-tempered, and cruel. But **she keeps her agreements and hates treachery**.
+- For treasure and respect, she lets cultists pass and kills everyone else.
+- **She knows the PCs.** Zaroz and Zellura passed her Kulupi's Act 2 information about them. Posing as cultists fails, most of all without the passphrase.
 - **A better offer fails.** She keeps promises, so a fight is nearly certain (p. 287).
 
-**Aylushrixa the Azure Inferno** — Creature 11, unique NE Large dragon earth, variant sapphire drake (BB 85), p. 288
+**Aylushrixa the Azure Inferno:** Creature 11, unique NE Large dragon earth, variant sapphire drake (BB 85), p. 288
 - **Perception** +22; darkvision, scent (imprecise) 30 ft. **Languages** Common, Draconic, Terran
 - **Skills** Acrobatics +20, Athletics +23, Intimidation +23, Stealth +17
 - **AC** 30; **Fort** +24, **Ref** +21, **Will** +16; **HP** 180
@@ -298,37 +325,40 @@ Corundum dust and magic lights make the glow: cheaper than sapphire, but she lov
 - **Speed Surge** (1 action, move; 3 times per day): she moves up to twice her Speed.
 - **Monster Parts** 175/390/720 gp
 
-**Tactics (p. 287):** Embershard Breath as soon as possible, plus Bone-Shaking Hum unless most of the party are [aeternal dragons](gm_glossary.md#aeternal-dragon). Draconic Frenzy while the breath recharges.
-- **Below 40 HP:** she flees with repeated Speed Surges rather than surrender.
-- **If captured anyway:** survival beats loyalty. She sides with the PCs, keeps that new deal, and offers an **infused sapphire scale** worth her full Monster Parts value. Only if she must, she reveals her hoard.
-- **She won't join** an attack on the cult unless forced. Bullied into it and healed, she escapes at the first chance, but never attacks them again.
+**Tactics (p. 287):** Embershard Breath as soon as possible. Bone-Shaking Hum too, unless most of the party are [aeternal dragons](gm_glossary.md#aeternal-dragon). Draconic Frenzy while the breath recharges.
+- **Below 40 HP:** she flees with repeated Speed Surges. She won't surrender.
+- **If captured anyway:** she puts survival ahead of loyalty. She sides with the PCs and keeps that new deal. She offers an **infused sapphire scale** worth her full Monster Parts value. She reveals her hoard only if she must.
+- **She won't join** an attack on the cult unless forced. If the PCs bully her into it and heal her, she escapes at the first chance. She never attacks them again.
 
-**What she knows** (if captured): **Malabria, Zaroz, and Zellura**, but not that Colvi or Kulupi lead. Zaroz and Zellura both acted in charge, and she can't say which is, or if they share it.
+**What she knows** (if captured): **Malabria, Zaroz, and Zellura**. She doesn't know that Colvi or Kulupi lead. Zaroz and Zellura both acted like the boss. She can't say which one is, or if they share the job.
 
-> **🔒 GM-only:** The cult's arrogance sees her as a bribed guard dog. Obsequiousness is anathema to them, so they keep that to themselves (p. 287).
+> **🔒 GM-only:** The cult is arrogant. They see her as a bribed guard dog. They hate looking like they bow to anyone, so they keep that view to themselves (p. 287).
 
-**Hazard — Sapphire Beacons (3)** *(Hazard 8, magical trap)*. Hidden to catch sneaks and invisible intruders.
+**Hazard: Sapphire Beacons (3)** *(Hazard 8, magical trap)*. They are hidden to catch sneaks and invisible intruders.
 - **Stealth DC 31 (expert).**
 - **Disable:** **DC 28 Thievery (expert)** to discharge the sapphires by hand, or **DC 28 Arcana (expert)** to discharge them from a safe distance.
-- **Light Up** (reaction). **Trigger:** a non-dragon creature moves into the trap's area. **Effect:** **8d6 fire** in a 10-foot emanation centered on that creature, **DC 26 basic Reflex**. On anything but a critical success, the creature is limned in blue flame for 1 minute: **flat-footed** and **weakness 10 to fire**.
+- **Light Up** (reaction). **Trigger:** a non-dragon creature moves into the trap's area. **Effect:** **8d6 fire** in a 10-foot emanation centered on that creature, **DC 26 basic Reflex**. On anything but a critical success, blue flame outlines the creature for 1 minute. It is **flat-footed** and has **weakness 10 to fire**.
 - **Reset:** 1 hour.
 
-> **⚠️ Gotcha — the combo:** A lit PC takes 10 extra from her 6d6 fire breath, and 10 extra again the first time each round they enter burning crystal. Describe the blue glow so players know something is wrong.
+> **⚠️ Gotcha (the combo):** A lit PC takes 10 extra from her 6d6 fire breath. They take 10 extra again the first time each round they enter burning crystal. Describe the blue glow so players know something is wrong.
 
-**Treasure — the hidden hoard (p. 289):** a secret spot in the **northeast corner**, masked by sparkling corundum.
+**Treasure (the hidden hoard (p. 289)):** a secret spot in the **northeast corner**, hidden by sparkling corundum.
 - **Search**, **DC 30 Perception**.
-- If no one Searches, roll a **secret DC 23 Arcana** Recall Knowledge per PC. Success: sapphire drakes hide treasure well.
-- **Contents:** a light brown *elemental gem* (summons a living landslide), a *type IV spellstrike arrow*, and **300 gp** in coins and gems (**1,000 gp** without Monster Parts).
+- If no one Searches, roll a **secret DC 23 Arcana** Recall Knowledge for each PC. Success: they know sapphire drakes hide treasure well.
+- **Contents:**
+  - a light brown *elemental gem* (summons a living landslide)
+  - a *type IV spellstrike arrow*
+  - **300 gp** in coins and gems (**1,000 gp** without Monster Parts)
 
-> **💡 GM tip — the rest stop:** The book suggests resting here (p. 282). The cult is busy, so you can allow it, then keep the pressure on past the next door.
+> **💡 GM tip (the rest stop):** The book suggests resting here (p. 282). The cult is busy, so you can allow it. Then keep the pressure on past the next door.
 
 ---
 
 ### Y5 — Cave In
 
 No encounter. A cave-in blocks the way to more mining chambers. Clearing it takes many hours or powerful magic. No footprints lead here.
-- **DC 20 Crafting** Recall Knowledge: it collapsed many years ago. Collapses like this usually come from a greedy supervisor skimping on safety.
-- Beyond lies only more caverns, no powerful monsters or treasure, per a PC who gets past or a friendly Sarganx.
+- **DC 20 Crafting** Recall Knowledge: it collapsed many years ago. A collapse like this usually means a greedy boss cut corners on safety.
+- Past it are only more caverns, with no powerful monsters or treasure. A PC who gets past learns this, or a friendly Sarganx can say so.
 
 [↑ Back to top](#table-of-contents)
 
@@ -336,15 +366,15 @@ No encounter. A cave-in blocks the way to more mining chambers. Clearing it take
 
 ## Part 2 — The Cult Complex (area Z)
 
-Past Aylushrixa, a tunnel winds about **20 minutes** to massive double doors (p. 289): an ancient miners' base the cult refurbished.
+Past Aylushrixa, a tunnel winds about **20 minutes** to huge double doors (p. 289). Behind them is an ancient miners' base the cult fixed up.
 
 **Complex features (p. 289):**
-- Most rooms and tunnels **10 feet** high, except **Z2** (**50 feet**) and **Z19** (**30 feet**).
-- Rough-hewn walls, lavish decor in most rooms.
-- **Z1** mostly dark. From **Z2** on, **well lit** by torches and magic.
-- Nearly empty: everyone is at the ritual below Z19.
+- Most rooms and tunnels are **10 feet** high. **Z2** is **50 feet** and **Z19** is **30 feet**.
+- Rough-cut walls, with fancy decor in most rooms.
+- **Z1** is mostly dark. From **Z2** on, torches and magic keep it **well lit**.
+- It's nearly empty, because everyone is at the ritual below Z19.
 
-> **⚠️ Gotcha — the fake gems:** Z2 and Z13 gems are transmuted fakes bound to local ley lines that dissolve into fetid mud outside the complex. **DC 20 Arcana or Crafting** spots them. The book says not to reward pillaging, since time matters (p. 291).
+> **⚠️ Gotcha (the fake gems):** The Z2 and Z13 gems are magic fakes tied to local ley lines. Outside the complex, they dissolve into stinking mud. **DC 20 Arcana or Crafting** spots them. Time matters, so the book says not to reward looting (p. 291).
 
 ### Map quick reference
 
@@ -376,15 +406,15 @@ Past Aylushrixa, a tunnel winds about **20 minutes** to massive double doors (p.
 
 > *The tunnels since leaving the drake's cavern have been long and winding, and the relative calm of the last 20 minutes has made it difficult to maintain a heightened state of readiness to be attacked at any second. Nonetheless, that fragile peace is shattered as you come across a larger cavern in the winding tunnels, where four shale creatures are poised to attack. While you've fought similar creatures before, those others were wild and feral, but these four seem a bit different, almost like guard dogs. And whatever they're guarding is clearly around the next corner, as the rough natural cavern gives way to artificially hewn stone.*
 
-**Shale Chargers (4)** — BB 94, Creature 6. Initiative: Perception +13, Stealth +13 (+17 in caves). Monster Parts 30/65/125 gp each.
-- Tamed to dig the old ruins, then gems. Trained to attack intruders.
-- **Befriending:** they attack at once unless a PC has **Wild Empathy** or similar. That PC can roll **DC 22 Diplomacy** to befriend one, or more with **Group Impression**. Without the feat, the PC can try **all four at once** at **DC 27**.
+**Shale Chargers (4):** BB 94, Creature 6. Initiative: Perception +13, Stealth +13 (+17 in caves). Monster Parts 30/65/125 gp each.
+- The cult tamed them to dig out the old ruins, then gems. They're trained to attack intruders.
+- **Befriending:** they attack at once unless a PC has **Wild Empathy** or something like it. That PC can roll **DC 22 Diplomacy** to befriend one. **Group Impression** lets them try more. Without the feat, the PC can try **all four at once** at **DC 27**.
 - **Befriended,** they let the PCs harvest energized shale worth the **full Monster Parts value**.
-- **Tactics:** **Tunneling Charge** through several PCs to end behind or flanking a backliner, then horn. **Spew Shale** only at a big clump.
-- **Morale:** each retreats below **40 HP**. The last retreats regardless.
+- **Tactics:** **Tunneling Charge** through several PCs to end behind or flanking a back-row PC, then horn. **Spew Shale** only at a big group.
+- **Morale:** each one retreats below **40 HP**. The last one retreats no matter what.
 - **Without Monster Parts:** each heart gem sells for **65 gp**.
 
-**Development:** around the corner glow the huge double doors to the stronghold.
+**Development:** around the corner, the huge double doors to the stronghold glow.
 
 ---
 
@@ -394,32 +424,32 @@ Past Aylushrixa, a tunnel winds about **20 minutes** to massive double doors (p.
 >
 > *The entire floor is adorned with carvings of scales inlaid with gems. In addition to the double doors to the south, the room has 10 exits, 5 to the west and 5 to the east.*
 
-The first three tiers show a ruthless rise to wealth and power. The ruler's mask on tier three is a less ornate echo of the dragon's on tier four.
+The first three tiers show a ruthless climb to wealth and power. The ruler's mask on tier three is a plainer copy of the dragon's mask on tier four.
 
-**Footprints:** heavy traffic into **Z6** and on to **Z8**, the captives' route. **DC 20 Survival** matches some prints to the captives tracked since Rumplank.
+**Footprints:** heavy traffic into **Z6** and on to **Z8**. This is the route the captives took. **DC 20 Survival** matches some prints to the captives the PCs have tracked since Rumplank.
 
-**The dragon:** [Varagix](gm_glossary.md#varagix-the-glimmering) in dragon form: warm gemstone scales, onyx claws, prismatic horns, gem-adorned onyx mask with smoldering orange gem eyes.
+**The dragon:** [Varagix](gm_glossary.md#varagix-the-glimmering) in dragon form. He has warm gemstone scales, onyx claws, and rainbow horns. His onyx mask is set with gems and has smoldering orange gem eyes.
 - PCs who identified him (area W in Ch 10, or Pliticori) recognize him.
 - Each other PC can roll **DC 25 Religion** Recall Knowledge (p. 258). Success also grants the critical-success information.
 - **A PC who fails can't succeed at Recall Knowledge to identify the Varagixian envoy in Z19.**
 
 **The gems:** fakes (see above).
 
-**Hazard — Repel Heretics** *(Hazard 10, magical trap)*. Only those who kneel and pray to Varagix can climb to the third-tier throne.
+**Hazard: Repel Heretics** *(Hazard 10, magical trap)*. Only those who kneel and pray to Varagix can climb to the third-tier throne.
 - **Stealth DC 35 (expert).**
-- **Disable:** **DC 30 Religion (expert)** for a powerful enough prayer, or ***dispel magic*** (5th level; **counteract DC 29**). See [counteracting](gm_chapter_3.md#counteracting).
-- **Down With the Unbeliever!** (reaction). **Trigger:** a creature tries to climb to the third tier without first kneeling and praying to Varagix. **Effect:** Varagix's eyes on the back wall flash, and a barrier tries to knock it back for **10d6 force**, **DC 29 Fortitude**:
+- **Disable:** **DC 30 Religion (expert)** for a strong enough prayer, or ***dispel magic*** (5th level; **counteract DC 29**). See [counteracting](gm_chapter_03.md#counteracting).
+- **Down With the Unbeliever!** (reaction). **Trigger:** a creature tries to climb to the third tier without first kneeling and praying to Varagix. **Effect:** Varagix's eyes on the back wall flash. A barrier tries to knock the creature back for **10d6 force**, **DC 29 Fortitude**:
   - **Critical success:** unaffected, and immune to this hazard for 24 hours.
   - **Success:** half damage, and it still climbs.
-  - **Failure:** full damage, can't climb, and pushed back 5 feet from the base of the stairs.
-  - **Critical failure:** full damage, then thrown against the back wall for **another 10d6 bludgeoning** and knocked prone.
-- **Reset:** automatic and instant. If disabled, it reforms in **1 hour**.
+  - **Failure:** full damage. It can't climb and is pushed back 5 feet from the base of the stairs.
+  - **Critical failure:** full damage. Then it's thrown against the back wall for **another 10d6 bludgeoning** and knocked prone.
+- **Reset:** automatic and instant. If disabled, it comes back in **1 hour**.
 
-> **⚠️ Gotcha — the label:** The book labels Z2 **Trivial 10**, unlike the chapter's level-9 ratings, possibly because the hazard is level 10. Trivial either way.
+> **⚠️ Gotcha (the label):** The book labels Z2 **Trivial 10**. The rest of the chapter uses level-9 ratings. The hazard being level 10 may explain it. It's Trivial either way.
 
-> **⚠️ Gotcha — Zaroz hears it:** Triggering it lets Zaroz (Z19) sense the divine energy and cast *heroism* before the PCs arrive.
+> **⚠️ Gotcha (Zaroz hears it):** If the trap fires, Zaroz (Z19) senses the divine energy. He casts *heroism* before the PCs arrive.
 
-> **💡 GM tip — the prayer:** Kneeling to a demon lord is a real choice for a paladin, champion, or cleric. Disabling the trap or taking the hit both work.
+> **💡 GM tip (the prayer):** Kneeling to a demon lord is a real choice for a paladin, champion, or cleric. Disabling the trap works. So does taking the hit.
 
 ---
 
@@ -441,12 +471,15 @@ The first three tiers show a ruthless rise to wealth and power. The ruler's mask
 
 > *This fine parlor has three entrances; the first, and only unlocked, door connects to the entry hall to the east, while the other two, heading to the north and west, appear to be locked. The numerous footprints from the reception area lead to the west.*
 
-Falarni's "State of the Art Death Dispenser Prototype Test Suite" tests her newest traps and guards her workshop from nosy intruders (in her mind, every other cultist). Her last prototype lopped the arm off a cultist bringing food. The locked doors lead to her workshop and the prison.
+This is Falarni's "State of the Art Death Dispenser Prototype Test Suite."
+- It tests her newest traps.
+- It guards her workshop from nosy intruders. In her mind, that means every other cultist.
+- Her last prototype cut the arm off a cultist bringing food.
+- The locked doors lead to her workshop and the prison.
+- It looks like a plain parlor. A **Search** may find a scary number of hidden traps.
+- **The footprints don't show safe squares.** Falarni grudgingly turned off the traps while the cult led the captives through.
 
-- It looks like a plain parlor. A **Search** may find a frightening number of hidden traps.
-- **The footprints don't show safe squares.** Falarni grudgingly disarmed the traps while the captives were led through.
-
-**Hazard — Malabria's Malevolent Contraption** *(Hazard 11, complex mechanical trap)*, p. 292
+**Hazard: Malabria's Malevolent Contraption** *(Hazard 11, complex mechanical trap)*, p. 292
 - **Stealth** +33 (expert)
 - **Disable:** **DC 34 Thievery (master)** to jam one component, or **DC 32 Crafting (expert)** to remove an essential part. Each success disables **one of four components** and removes its action from the routine.
 - **AC** 31; **Fort** +18, **Ref** +24; each component Hardness 20, HP 20 (BT 10); immune to critical hits, object immunities, precision damage
@@ -454,20 +487,23 @@ Falarni's "State of the Art Death Dispenser Prototype Test Suite" tests her newe
 - **Routine (4 actions)**, one per component:
   - **Punching Bag:** boxing gloves fly from the walls and attack every creature **adjacent to a wall**. Melee boxing glove +24, 1d8+6 bludgeoning.
   - **Too Many Saws:** saws on tracks hit **every square the gloves didn't**, including the tops of furniture. **2d6+4 slashing**, **DC 30 basic Reflex**.
-  - **Confounding Powder** (poison): every creature in the room makes a **DC 30 Will** save or is **clumsy 2** and **stupefied 2** for 1 round.
-  - **Deep Freeze:** chilled liquid rains down, settles the powder, and deals **2d6+4 cold** to every creature in the room, **DC 30 basic Fortitude**. A creature that fails takes a **−10-foot status penalty** to its Speeds.
+  - **Confounding Powder** (poison): every creature in the room makes a **DC 30 Will** save. On a failure, it is **clumsy 2** and **stupefied 2** for 1 round.
+  - **Deep Freeze:** chilled liquid rains down and settles the powder. It deals **2d6+4 cold** to every creature in the room, **DC 30 basic Fortitude**. A creature that fails takes a **−10-foot status penalty** to its Speeds.
 - **Reset:** if no creatures are in the area for 1 minute, it shuts off and resets.
 
-**Disabling by position (p. 292):** **next to a wall**, a PC can disable any component **except the saws**. **Not next to a wall**, any **except the punching bag**. A Tiny PC might not reach both.
+**Disabling by position (p. 292):**
+- A PC **next to a wall** can disable any component **except the saws**.
+- A PC **not next to a wall** can disable any **except the punching bag**.
+- A Tiny PC might not reach both.
 
-**The failsafe:** a fifth component alerts Falarni to tampering.
-- A **critical success** Searching for the hazard notices it. It can be disabled **first** and isn't needed to disable the rest.
-- If it's disabled first, the PCs likely **surprise Falarni** in Z7.
-- Her soundproofed room means ordinary noise here won't warn her.
+**The failsafe:** a fifth component warns Falarni when someone tampers with the trap.
+- A **critical success** when Searching for the hazard notices it. The PCs can disable it **first**. They don't need to disable it to disable the rest.
+- If they disable it first, the PCs likely **surprise Falarni** in Z7.
+- Her room is soundproofed, so normal noise here won't warn her.
 
-> **📏 Rules refresher:** A [complex hazard](gm_chapter_1.md#hazards) acts on its own initiative each round. Level 11 costs 80 XP, like a level-11 creature: Moderate.
+> **📏 Rules refresher:** A [complex hazard](gm_chapter_01.md#hazards) acts on its own initiative each round. A level-11 hazard is worth 80 XP, the same as a level-11 creature. That makes it Moderate.
 
-> **💡 GM tip:** It fires only when **two or more** creatures enter, so a lone scout can Search safely. Reward that caution.
+> **💡 GM tip:** It fires only when **two or more** creatures enter. A lone scout can Search safely. Reward that caution.
 
 ---
 
@@ -475,13 +511,16 @@ Falarni's "State of the Art Death Dispenser Prototype Test Suite" tests her newe
 
 > *This cluttered room is full of a chaotic sprawl of all sorts of unusual odds and ends, many of which seem to be projects in a partial state of completion, raw materials, or schematics. It's clearly the workshop of someone on the cutting edge of gadgetry, and the doctor is in.*
 
-**Falarni Malabria** (she/her), a g'mayun inventor with no moral compass, has always been the smartest in the room and thinks everyone else a fool. **Kulupi flattered her** in with praise and unlimited research funds. She pays the faith lip service without believing it, staying for the money and a shred of loyalty to the prince.
+**Falarni Malabria** (she/her) is a g'mayun inventor with no moral compass.
+- She has always been the smartest in the room. She thinks everyone else is a fool.
+- **Kulupi flattered her** into joining with praise and unlimited research money.
+- She pretends to follow the faith but doesn't believe it. She stays for the money and a small bit of loyalty to the prince.
 
 **How she starts the fight:**
-- **Failsafe triggered (likely):** one ant swarm already built, she stands where her flamethrower can hit several PCs, her bodyguard beside her and slightly forward, out of its line.
-- **Failsafe disabled first:** surprised, back to the door, bodyguard watching beside her.
+- **Failsafe triggered (likely):** one ant swarm is already built. She stands where her flamethrower can hit several PCs. Her bodyguard is beside her and a bit forward, out of the flamethrower's line.
+- **Failsafe disabled first:** she's surprised, with her back to the door. Her bodyguard watches beside her.
 
-**Falarni Malabria** — Creature 10, unique NE Small g'mayun humanoid, p. 294
+**Falarni Malabria:** Creature 10, unique NE Small g'mayun humanoid, p. 294
 - **Perception** +20; low-light vision, truecolor vision. **Languages** Aquan, Auran, Common, Orpok, Terran
 - **Skills** Acrobatics +18, Arcana +20, Athletics +21, Crafting +24, Nature +20, Occultism +20, Religion +20, Thievery +18
 - **Items** *Malabria's goggles* (refined Crafting item 9, imbued Intelligence 8), 3 *moderate healing potions*
@@ -490,11 +529,11 @@ Falarni's "State of the Art Death Dispenser Prototype Test Suite" tests her newe
 - **Behold My Creations!** (1 action, once per round). **Requirement:** she's in her workshop or in her bodyguard's extradimensional space. **Effect:** a **bootcutter ant swarm** surges out of the floor into a 10-foot square she chooses. All her swarms act right after her turn. She has materials for **20 swarms** in total.
 - **Flamethrower** (2 actions): 30-foot line, **6d6 fire**, **DC 29 basic Reflex**.
 - **Gear Grind:** on a critical hit with her fist, the target takes another 1d6 bludgeoning and 1d6 electricity.
-- **Overclock** (free action): she's [quickened](gm_chapter_5.md#conditions-new-this-chapter) this turn and can use the extra action to Step, Stride, or Strike with her fist. Then she rolls a **DC 17 flat check**. On a failure, sparks and small explosions engulf her armor, and she can't Overclock again until she spends 10 minutes repairing it.
+- **Overclock** (free action): she's [quickened](gm_chapter_05.md#conditions-new-this-chapter) this turn and can use the extra action to Step, Stride, or Strike with her fist. Then she rolls a **DC 17 flat check**. On a failure, sparks and small explosions engulf her armor, and she can't Overclock again until she spends 10 minutes repairing it.
 
-**Bespoke Bodyguard** — BB 20, Creature 9. Initiative: Perception +21. Monster Parts 125/275/500 gp. Her longtime companion, a construct of her own design.
+**Bespoke Bodyguard:** BB 20, Creature 9. Initiative: Perception +21. Monster Parts 125/275/500 gp. It's her longtime companion, a construct she designed herself.
 
-**Bootcutter Ant Swarm** (0–20) — Creature 3, N Large construct mindless swarm, p. 294
+**Bootcutter Ant Swarm** (0–20): Creature 3, N Large construct mindless swarm, p. 294
 - **Perception** +7; darkvision. **Skills** Acrobatics +8, Stealth +8
 - **AC** 18; **Fort** +8, **Ref** +8, **Will** +5; **HP** 15
 - **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, precision, poison, sickened, unconscious
@@ -503,33 +542,35 @@ Falarni's "State of the Art Death Dispenser Prototype Test Suite" tests her newe
 - **Swarming Bites** (1 action): each enemy in its space takes **1d6 piercing** and **2 persistent bleed**, **DC 18 basic Reflex**.
 
 **Tactics (p. 293):**
-- **Swarms whenever she can**, flamethrower on a good line, punches when she must.
-- **Overclock** buys a fourth action to reposition, or a Strike after three actions without one.
-- The bodyguard punches threats to her and uses **Keep Away** on melee attackers.
-- **Below 60 HP:** the bodyguard uses **Protect and Preserve**, and she accepts. In its extradimensional space she makes swarms, drinks a moderate healing potion each turn, and holds the swarms back. Healed, or once the bodyguard falls, she bursts out with all of them.
-- **Surrender:** **out of potions or bodyguard destroyed**, she surrenders **below 40 HP**. The cult isn't worth her life.
+- **She makes swarms whenever she can.** She uses the flamethrower when she has a good line, and punches when she must.
+- **Overclock** gives her a fourth action to move into place. Or it gives her a Strike after three actions without one.
+- The bodyguard punches threats to her. It uses **Keep Away** on melee attackers.
+- **Below 60 HP:** the bodyguard uses **Protect and Preserve**, and she accepts.
+  - Inside its extradimensional space, she makes swarms and drinks a moderate healing potion each turn. She holds the swarms back.
+  - Once she's healed, or once the bodyguard falls, she bursts out with all of them.
+- **Surrender:** if she's **out of potions or her bodyguard is destroyed**, she surrenders **below 40 HP**. The cult isn't worth her life.
 
-> **⚠️ Gotcha — swarms pile up:** One per round, up to 20. Four or five Swarming Bites a round plus bleed add up. Area spells and splash weapons are the answer. Kill her fast, or kill the bodyguard first to stop the potion trick.
+> **⚠️ Gotcha (swarms pile up):** One per round, up to 20. Four or five Swarming Bites a round plus bleed add up fast. Area spells and splash weapons are the answer. Kill her fast. Or kill the bodyguard first to stop the potion trick.
 
 **Questioning Falarni (p. 293):**
-- **What is the cult planning?** She didn't care as long as they paid. It *"all sounded pretty apocalyptic if you ask me, but I'm sure they were just exaggerating to try to compensate for their puny intellects."* Details forgotten.
+- **What is the cult planning?** She didn't care as long as they paid. It *"all sounded pretty apocalyptic if you ask me, but I'm sure they were just exaggerating to try to compensate for their puny intellects."* She has forgotten the details.
 - **Where are the prisoners and cultists?** Taken *"for some big ritual or something equally pedestrian and cliched. Honestly, it didn't have any science in it all, can you imagine? Who would want to go watch that?"* She assumes everyone is there now.
-- **Why did you hire the arsonists?** A shrug. The cult wanted a big distraction and *"that historian's house"* destroyed, to erase documents about the cult's enemies, or maybe its secrets. Tedious, so she outsourced it.
+- **Why did you hire the arsonists?** She shrugs. The cult wanted a big distraction. They also wanted *"that historian's house"* destroyed, to wipe out documents about the cult's enemies, or maybe its secrets. It was boring, so she hired it out.
 
 **Treasure (p. 294–295):**
 - Countless spare parts, **sterling artisan's tools**, a **chameleon suit**, and **greater blast boots** (*Guns & Gears*).
-- A nearly finished gadget, her insurance against cult betrayal: **DC 30 Crafting** and **4 hours** make it an **etheric essence disruptor** (*Guns & Gears*). They can carry it out and finish it that evening.
-- Her notes hold **formulas** for chameleon suits and etheric essence disruptors. Optionally add other *Guns & Gears* gadgets and formulas.
+- A nearly finished gadget. It's her backup plan in case the cult betrays her. **DC 30 Crafting** and **4 hours** make it an **etheric essence disruptor** (*Guns & Gears*). The PCs can carry it out and finish it that evening.
+- Her notes hold **formulas** for chameleon suits and etheric essence disruptors. You can add other *Guns & Gears* gadgets and formulas if you like.
 - **Defense special resource:** **DC 20 Crafting** sorts the parts fast for **pyre combustibles** (Chapter 12).
-- **Without Monster Parts:** swap *Malabria's goggles* for an *armband of athleticism* and add **280 gp** of crafting materials.
+- **Without Monster Parts:** swap *Malabria's goggles* for an *armband of athleticism*. Add **280 gp** of crafting materials.
 
-> **🧩 Sets up — pyre combustibles:** In Chapter 12 a special resource upgrades a tier 1 defense to tier 2, or converts to **10 Resource Points** (p. 314). With a Flame Tower, pyre combustibles build an **Inferno Cannon Tower** (p. 316). The p. 315 table lists "Z7. Malabria's Workshop, 1 set." **Write it down.**
+> **🧩 Sets up (pyre combustibles):** In Chapter 12, a special resource upgrades a tier 1 defense to tier 2. Or it converts to **10 Resource Points** (p. 314). With a Flame Tower, pyre combustibles build an **Inferno Cannon Tower** (p. 316). The p. 315 table lists "Z7. Malabria's Workshop, 1 set." **Write it down.**
 
-> **⚠️ Gotcha — tower names:** p. 315 says "Inferno Tower." The p. 316 block is **Inferno Cannon Tower**, and its cost line says "Flame Tower" for the tier 1 **Flame Cannon Tower**. Same defenses.
+> **⚠️ Gotcha (tower names):** p. 315 says "Inferno Tower." The p. 316 block says **Inferno Cannon Tower**. Its cost line says "Flame Tower" for the tier 1 **Flame Cannon Tower**. They are the same defenses.
 
-> **🧩 Sets up — Malabria's Mannequins:** Her mannequin servants attack as an army in Chapter 12's first wave, in Barrel Square (p. 319).
+> **🧩 Sets up (Malabria's Mannequins):** Her mannequin servants attack as an army in Chapter 12's first wave, in Barrel Square (p. 319).
 
-> **⚠️ Gotcha — her alignment:** Stat block **NE** (p. 294), cult article **CE** (p. 377). It rarely matters, but could for an alignment-based ability.
+> **⚠️ Gotcha (her alignment):** Her stat block says **NE** (p. 294). The cult article says **CE** (p. 377). It rarely matters, but it could for an alignment-based ability.
 
 ---
 
@@ -537,10 +578,10 @@ Falarni's "State of the Art Death Dispenser Prototype Test Suite" tests her newe
 
 > *The numerous cramped and uncomfortable-looking cells in this chamber emit a foul odor of sweat and excrement, even though the poor souls who were trapped here are nowhere to be seen. The trail of footprints ends here. The smells make it clear that the prisoners were brought to this room at some point and kept here until recently, but now the cells rest eerily and ominously empty.*
 
-The prisoners' recent, orderly procession to the ritual left no obvious second trail.
+The cult marched the prisoners to the ritual in neat lines not long ago. That march left no obvious second trail.
 - **DC 30 Survival** to Track: a fainter, fresher trail leads back through the entrance hall and **up to area Z19**.
 
-> **⚠️ Gotcha:** "Up to area Z19" suggests a route through Z2's upper tiers, past the Repel Heretics stairs. Check the p. 290 map beforehand.
+> **⚠️ Gotcha:** "Up to area Z19" suggests the route goes through Z2's upper tiers, past the Repel Heretics stairs. Check the p. 290 map before the session.
 
 ### Z9 — Barracks
 
@@ -559,9 +600,9 @@ The prisoners' recent, orderly procession to the ritual left no obvious second t
 Food fit for royalty.
 - **Defense special resource:** **10 minutes** gathering yields a **culinary supply kit** for Chapter 12.
 
-> **🧩 Sets up — culinary supply kit:** With a Quartermaster it builds a **Gourmet Quartermaster**: +2 circumstance bonus to all PC actions in its district (p. 316). Or convert it to 10 Resource Points (p. 314). The p. 315 table lists "Z11. Kitchen, 1 kit." **Write it down.**
+> **🧩 Sets up (culinary supply kit):** With a Quartermaster, it builds a **Gourmet Quartermaster**. That gives a +2 circumstance bonus to all PC actions in its district (p. 316). Or convert it to 10 Resource Points (p. 314). The p. 315 table lists "Z11. Kitchen, 1 kit." **Write it down.**
 
-> **💡 GM tip:** Players skip kitchens. If nobody looks, have a PC with a cook or Bluebell chef background smell something good.
+> **💡 GM tip:** Players skip kitchens. If nobody looks, a PC with a cook or Bluebell chef background smells something good.
 
 ---
 
@@ -569,17 +610,17 @@ Food fit for royalty.
 
 > *These elegant individual bedrooms likely belong to people who consider themselves important, though their small size compared to the grand entry hall suggests that they do not belong to the cult's most powerful members.*
 
-Nothing of value: valuables left lying around would vanish fast.
+Nothing of value. Anything valuable left lying around here would vanish fast.
 
 ### Z13 — Kulupi's Bedroom
 
 > *This magnificent and regal bedroom has furnishings that are colorful and over-the-top in their opulence, with gems featuring heavily in the design. While this room is especially well-appointed, it appears to have been barely used by its inhabitant, if at all.*
 
-Kulupi, recently "kidnapped," went straight to the ritual, stopping only to confirm the room was the largest and nicest.
+Kulupi was "kidnapped" not long ago. He went straight to the ritual. He stopped here only to make sure the room was the largest and nicest.
 - **No search reveals whose room it is.** The book does this so the reveal stays a surprise.
 - **The gems** are fakes, as in Z2.
 
-> **🔒 GM-only:** Read-aloud only, no hints. Players who suspect Kulupi should still be guessing at the ledge.
+> **🔒 GM-only:** Give the read-aloud only, with no hints. Players who suspect Kulupi should still be guessing when they reach the ledge.
 
 ### Z14 — Individual Bathrooms
 
@@ -589,16 +630,23 @@ Kulupi, recently "kidnapped," went straight to the ritual, stopping only to conf
 
 > *This grand bedroom has furnishings that are elegant and refined in their extreme opulence. Based on the disturbances in the room, the inhabitant has used the room extensively but rather oddly, almost as if their use of the bed wasn't a regular occurrence. A small pile of pictures lies atop one of the tables.*
 
-[Zaroz](gm_glossary.md#zaroz) doesn't sleep. Waiting on the plan, he draws: obscene wealth, debased servitude, brutal murders, undead armies rampaging through a city, the mortally wounded dying in its streets. **The city looks a lot like Rumplank.** No behemoth yet: he wants to see it first.
+[Zaroz](gm_glossary.md#zaroz) doesn't sleep. While he waits on the plan, he draws. His pictures show:
+- shocking wealth
+- people forced into degrading service
+- brutal murders
+- undead armies running wild through a city
+- the badly wounded dying in its streets
+
+**The city looks a lot like Rumplank.** He hasn't drawn the behemoth yet. He wants to see it first.
 
 ### Z16 — Zellura's Bedroom
 
 > *This fancy bedroom has an ominous black decor, complete with decorations made of bone. It's well-used and has been for quite some time, and the occupant hasn't made much of an effort to keep the room in good order. Piles of ancient scrolls are littered across the tables, spilling onto the floors where the tables' surfaces can't contain them.*
 
 [Zellura](gm_glossary.md#zellura) keeps cryptic demonic prophecies here.
-- **Abyssal** readers see they're ominous, apocalyptic, and vague.
-- **Decipher Writing** (**DC 25 Religion** or **DC 22 Demon Lore** or similar): a plan to destroy a city that must be Rumplank with armies of evil and a giant monster.
-- Also details on Varagix and the cult's beliefs, to fill gaps from failed checks elsewhere.
+- PCs who read **Abyssal** can tell they're dark, about the end of the world, and vague.
+- **Decipher Writing** (**DC 25 Religion** or **DC 22 Demon Lore** or similar) reveals a plan. Armies of evil and a giant monster will destroy a city. The city must be Rumplank.
+- They also hold details on Varagix and the cult's beliefs. Use these to fill gaps from failed checks elsewhere.
 
 > **🧩 Sets up:** A PC who explored this room can recognize Zellura's style in Royal Betrayal (DC 25 Society or DC 20 aesthetics Lore).
 
@@ -606,19 +654,19 @@ Kulupi, recently "kidnapped," went straight to the ritual, stopping only to conf
 
 > *This fancy bedroom is decorated with every color of the rainbow. A map of Rumplank is set up on the table. Several locations along the perimeter are marked, and colored lines point toward the city from all directions.*
 
-The room was always [Prismatic Colvi](gm_glossary.md#prismatic-colvi)'s, though he arrived recently. Zellura dislikes sharing her bathroom with him. Unlike the prince, he slept here and marked the map with ways around the city's defenses.
-- **The map:** **DC 20 Society** or **DC 15 Warfare Lore** Recall Knowledge: a **military map** of armies closing on **every one of Rumplank's districts, by land and sea**. No time to study it now, but the PCs can take it to plan Chapter 12's defenses (p. 315).
-- **Divination:** unlike Kulupi's room, the right divinations could trace something here to Colvi.
+This room always belonged to [Prismatic Colvi](gm_glossary.md#prismatic-colvi), but he only arrived recently. Zellura doesn't like sharing her bathroom with him. Unlike the prince, he slept here. He marked the map with ways around the city's defenses.
+- **The map:** **DC 20 Society** or **DC 15 Warfare Lore** Recall Knowledge shows a **military map**. Armies close in on **every one of Rumplank's districts, by land and sea**. There's no time to study it now. The PCs can take it to plan Chapter 12's defenses (p. 315).
+- **Divination:** the right divinations could trace something here to Colvi. That doesn't work in Kulupi's room.
 
-> **🔒 GM-only:** The one place in the complex the book says could hold evidence tied to Colvi. The PCs meet him in Chapter 12 either way.
+> **🔒 GM-only:** The book names this as the one place in the complex that could hold evidence tied to Colvi. The PCs meet him in Chapter 12 either way.
 
-> **⚠️ Gotcha:** The map isn't on the special resources table (p. 315) and has no Resource Point value. Treat it as planning help, or give a small bonus of your own if the players use it well.
+> **⚠️ Gotcha:** The map isn't on the special resources table (p. 315). It has no Resource Point value. Treat it as help with planning. Or give a small bonus of your own if the players use it well.
 
 ### Z18 — Mirror Rooms
 
 > *This room has full-length mirrors arranged to allow someone to admire themselves from all angles. The gem light in these rooms is a flattering warm color, perfect to see oneself favorably in a new outfit.*
 
-The leaders feed their vanity here, as Varagix encourages.
+The leaders admire themselves here. Varagix encourages this vanity.
 
 ---
 
@@ -626,49 +674,54 @@ The leaders feed their vanity here, as Varagix encourages.
 
 > *A double door leads into this richly appointed and meticulously clean shrine, complete with a bejeweled dragon statue sitting atop a gem-encrusted altar. Lavish frescoes decorate the room's walls. On the west wall, an immense hoard of treasure glitters with actual jewels. On the east wall, a meticulously detailed depiction of Rumplank lies in shattered ruins, while a 10-legged creature of shale, gems, and mind-boggling proportions looms over the wreckage. A hallway leads out of the room and down an ominous set of stairs.*
 
-Kept spotless to avoid angering Varagix or his envoy.
+The cult keeps it spotless so they don't anger Varagix or his envoy.
 
 **Reading the frescoes (p. 297–298):**
-- **Recency:** **DC 25 Society** or **DC 20 Rumplank Lore** spots Rumplank features from the last six months. **DC 25 Perception** or **DC 22 Crafting** spots paint a few months old. A current plan.
-- **The scales:** real. **DC 25 Perception**: split from a creature far bigger than the 20-foot painting.
-- **The size:** if players miss the link to Z2's design, each PC gets a **secret DC 20 Perception** check. **DC 20 Crafting**: about **400 feet long**, the length of Z2.
-- **What it is:** **DC 40 Nature** Recall Knowledge identifies a **shale behemoth**, a legendary monster that could beat the PCs as easily as they'd beat four blood mice, and confirms the scales are real. They'll almost surely fail. If they roll it here, they spend their attempt before meeting the real thing.
+- **How new:** **DC 25 Society** or **DC 20 Rumplank Lore** spots Rumplank features from the last six months. **DC 25 Perception** or **DC 22 Crafting** spots paint a few months old. This is a current plan.
+- **The scales:** real. **DC 25 Perception** shows they split off a creature far bigger than the 20-foot painting.
+- **The size:** players may miss the link to Z2's design. If so, each PC gets a **secret DC 20 Perception** check. **DC 20 Crafting** shows it's about **400 feet long**, the length of Z2.
+- **What it is:** **DC 40 Nature** Recall Knowledge identifies a **shale behemoth**. This legendary monster could beat the PCs as easily as they'd beat four blood mice. The check also confirms the scales are real. They'll almost surely fail. If they roll it here, they use up their attempt before meeting the real thing.
 
-**Creatures:** two guards pray here, attending Zaroz. These three are the only cultists not at the ritual, because Zaroz commandeered the shrine for his own questions to Varagix. **No chance to parley**.
+**Creatures:** two guards pray here and serve Zaroz. These three are the only cultists not at the ritual. Zaroz took over the shrine to ask Varagix his own questions. **No chance to parley**.
 
-**Zaroz, Varagixian Envoy** (he/him) — p. 404, Creature 9. Initiative: Perception +18. Monster Parts 90/200/360 gp.
+**Zaroz, Varagixian Envoy** (he/him): p. 404, Creature 9. Initiative: Perception +18. Monster Parts 90/200/360 gp.
 - Key numbers from p. 404: **AC** 27; **HP** 130; **Weaknesses** cold iron 10, good 10; **Speed** 30 ft, fly 30 ft. Divine spells **DC 28**, attack +20.
-- **Aura of Arrogance** (30 feet, DC 28 Will) and **Failure Vulnerability** (5d6 mental when he critically fails a save or skill check, once per round) shape the fight. Read both beforehand.
-- **Prep:** if the Z2 hazard fired, *heroism* on himself and, given time, one guard. **Bestow Feather** is already spent on Prince Kulupi.
-- **Tactics:** tie up as many PCs as possible: 3rd-level *fear* to weaken saves, **All That Glitters**, 5th-level *command*, then All That Glitters until too many PCs are immune. Starting his turn next to a spellcaster, rogue, or other lightly armored PC: *vampiric touch* and a claw. At range, *chromatic ray*, or *sound burst* on bunched PCs.
-- **He fights to the death.** The puppet projection means nothing to him, and he's sure overwhelming force waits below.
-- **If captured,** he says only *"It stirs. I can't wait to see what happens next,"* destroys his puppet body, and returns to the Abyss.
+- Two abilities shape the fight. Read both before the session.
+  - **Aura of Arrogance** (30 feet, DC 28 Will).
+  - **Failure Vulnerability** (5d6 mental when he critically fails a save or skill check, once per round).
+- **Prep:** if the Z2 hazard fired, he casts *heroism* on himself. With time, he casts it on one guard too. He already spent **Bestow Feather** on Prince Kulupi.
+- **Tactics:** he tries to tie up as many PCs as possible.
+  - Order: 3rd-level *fear* to weaken saves, then **All That Glitters**, then 5th-level *command*. Then All That Glitters until too many PCs are immune.
+  - If he starts his turn next to a spellcaster, rogue, or other lightly armored PC: *vampiric touch* and a claw.
+  - At range: *chromatic ray*, or *sound burst* on PCs bunched together.
+- **He fights to the death.** He doesn't care about his puppet body. He's sure overwhelming force waits below.
+- **If captured,** he says only *"It stirs. I can't wait to see what happens next."* Then he destroys his puppet body and returns to the Abyss.
 
-> **⚠️ Gotcha — identifying him:** PCs who failed the DC 25 Religion check in Z2 can't succeed at Recall Knowledge to identify him.
+> **⚠️ Gotcha (identifying him):** PCs who failed the DC 25 Religion check in Z2 can't succeed at Recall Knowledge to identify him.
 
-**Shivering Behemoth Guards (2)** — Creature 7, rare NE Medium humanoid, p. 298
+**Shivering Behemoth Guards (2):** Creature 7, rare NE Medium humanoid, p. 298
 - **Perception** +16. **Languages** Common
 - **Skills** Acrobatics +12, Athletics +17, Crafting +13, Survival +14
 - **Items** *+1 striking pick*, sturdy shield (4), repair kit, splint mail, 5 javelins
 - **AC** 25 (27 with shield raised); **Fort** +17, **Ref** +14, **Will** +12; **HP** 120; **Speed** 20 ft
 - **Attack of Opportunity** (reaction)
 - **Reactive Shield** (reaction). **Trigger:** an enemy hits the guard with a melee Strike. **Effect:** the guard Raises its Shield and gets the bonus against that attack.
-- **Shield Block** (reaction). At the start of each turn the guard gains an extra reaction that it can only use to Shield Block. When it blocks a Huge or smaller creature, it can **Shove** that creature as a free action. A creature Shoved into an object takes 6 damage.
+- **Shield Block** (reaction). At the start of each turn, the guard gains an extra reaction that it can only use to Shield Block. When it blocks a Huge or smaller creature, it can **Shove** that creature as a free action. A creature Shoved into an object takes 6 damage.
 - **Melee** pick +18 (fatal d10), 2d6+10 piercing
 - **Ranged** javelin +13 (range 30 ft, thrown), 1d6+10 piercing
-- **Tactics:** position for Attacks of Opportunity, protect Zaroz, Raise Shields. Fanatics: fight to the death, silent if captured.
+- **Tactics:** they move to get Attacks of Opportunity, protect Zaroz, and Raise Shields. They are fanatics. They fight to the death and stay silent if captured.
 
-**Treasure:** altar and statue, **300 gp** to the right buyer, **5 Bulk**. Defacing them so they don't promote demon worship drops it to **200 gp**. Without Monster Parts, add **200 gp** either way.
+**Treasure:** the altar and statue, worth **300 gp** to the right buyer, **5 Bulk**. If the PCs deface them so they can't spread demon worship, the value drops to **200 gp**. Without Monster Parts, add **200 gp** either way.
 
-> **🧩 Sets up — defacing the altar:** **Track which PCs defaced the altar and statue or showed them serious disrespect.** In Chapter 12's final fight on the behemoth, Varagix rebukes those PCs with glittering spots (p. 335), and Castilli more likely protects PCs who suffered Varagix's wrath (p. 336).
+> **🧩 Sets up (defacing the altar):** **Track which PCs defaced the altar and statue or showed them serious disrespect.** Chapter 12's final fight is on the behemoth. There, Varagix rebukes those PCs with glittering spots (p. 335). Castilli is more likely to protect PCs who suffered Varagix's anger (p. 336).
 
-> **🧩 Sets up — Bestow Feather:** It gives Kulupi +1 status to attack rolls, skill checks, and saves, and lets Zaroz spy on him via *clairaudience* and *clairvoyance* (p. 404). Kulupi fights demon-blessed in Chapter 12.
+> **🧩 Sets up (Bestow Feather):** It gives Kulupi +1 status to attack rolls, skill checks, and saves. It also lets Zaroz spy on him with *clairaudience* and *clairvoyance* (p. 404). Kulupi fights with this demon blessing in Chapter 12.
 
-**Development:** the stairs lead down to the cult, the reveal, and the behemoth, one-way. Warn completionists (see [How the chapter is built](#how-the-chapter-is-built)).
+**Development:** the stairs lead down to the cult, the reveal, and the behemoth. It's one-way. Warn players who like to clear every room (see [How the chapter is built](#how-the-chapter-is-built)).
 
 ### If the PCs lose in the complex
 
-Zaroz captures them for sacrifice, waking them for Kulupi's speech (adjusted for captives) so they watch. The ceiling collapse during the offering gives them a chance to escape by mine cart. Falling earlier to another cult ally can play out the same, though Falarni is more likely to keep them to test new traps (p. 299).
+Zaroz captures them to sacrifice. He wakes them for Kulupi's speech so they watch. Adjust the speech for captives. The ceiling collapse during the offering gives them a chance to escape by mine cart. If they fall earlier to another cult ally, it can play out the same way. Falarni is more likely to keep them to test new traps (p. 299).
 
 [↑ Back to top](#table-of-contents)
 
@@ -676,17 +729,17 @@ Zaroz captures them for sacrifice, waking them for Kulupi's speech (adjusted for
 
 ## Part 3 — Royal Betrayal
 
-> **🎯 Why this scene exists:** The campaign's big reveal, culminating all the foreshadowing (sidebar "The Big Reveal"). It's talk-heavy, so the book builds in breaks for checks and reactions behind the barrier (p. 301). Trim or stretch to fit.
+> **🎯 Why this scene exists:** This is the campaign's big reveal. All the earlier hints pay off here (sidebar "The Big Reveal"). The scene is mostly talk. So the book builds in breaks where the PCs make checks and react behind the barrier (p. 301). Cut or stretch it to fit your table.
 
-**The setup (p. 299):** the stairs reach a ledge above a massive cavern, ramps winding down to robed cultists. A translucent blue force orb, **hundreds of feet across**, encloses all but the ledge. Once all the PCs are on the ledge, **a second orb** traps them, safe, until the ritual ends.
-- The ritual and spheres are powered by the prayers of dozens of faithful, many blood sacrifices, and leftover Varagix power Poppy didn't quite snuff out.
+**The setup (p. 299):** the stairs reach a ledge above a huge cavern. Ramps wind down to robed cultists. A see-through blue force orb, **hundreds of feet across**, surrounds everything but the ledge. Once all the PCs are on the ledge, **a second orb** traps them. They stay safe inside it until the ritual ends.
+- Three things power the ritual and the spheres: the prayers of dozens of faithful, many blood sacrifices, and leftover Varagix power that Poppy didn't quite snuff out.
 - Breaking the barriers takes more time than the PCs have.
-- They **block all teleportation** and extend underground as perfect spheres.
-- **If the PCs somehow carried the Jewel here,** it flies from their hands through the barrier, and Kulupi sincerely praises them and tries to convert them. Adjust his speech.
+- They **block all teleportation**. They also reach underground, as perfect spheres.
+- **If the PCs somehow carried the Jewel here,** it flies from their hands through the barrier. Kulupi sincerely praises them and tries to convert them. Adjust his speech.
 
-> **⚠️ Gotcha — crowd size:** The setup says "the prayers of dozens of faithful" and "in a circle" (p. 299). The read-aloud says "hundreds of people" in a half-circle (p. 300). Use the read-aloud.
+> **⚠️ Gotcha (crowd size):** The setup says "the prayers of dozens of faithful" and "in a circle" (p. 299). The read-aloud says "hundreds of people" in a half-circle (p. 300). Use the read-aloud.
 
-> **💡 GM tip:** Let the PCs attack and act mid-speech. The barrier rebuffs everything. Kulupi has rehearsed this since the journey began and relishes it.
+> **💡 GM tip:** Let the PCs attack and act during the speech. The barrier stops everything. Kulupi has practiced this since the journey began, and he enjoys it.
 
 ### Read aloud — the ritual
 
@@ -696,14 +749,14 @@ Zaroz captures them for sacrifice, waking them for Kulupi's speech (adjusted for
 >
 > *As you arrive through the tunnel, the hooded figure addresses the gathered cultists in a rough, masculine g'mayun's voice.*
 
-**First break: checks.** PCs who rush forward hit the barrier and can gauge its rough size. Otherwise:
-- **DC 20 Medicine:** Atriella is unconscious, unhurt, breathing. The bodies are all dead. *Critical failure:* negative energy killed Atriella without a mark, and a few victims are barely alive.
-- **Identify Varagix** from iconography and chant, if not done yet (see [Z2](#z2--grand-reception-hall-trivial-10)). Those who already did know the ritual is his.
-- **DC 25 Religion or Occultism, or DC 22 Demon Lore:** a super-amplified demonic *create undead*. Given the pictures of a giant behemoth wrecking Rumplank, likely an enormous undead monster. *Critical failure:* plant-growth magic to make the desert fertile.
-- **DC 25 Arcana:** floor patterns imply force fields around the celebrants, able to make more. Like a bigger, stronger *prismatic sphere*: anyone inside is trapped and well protected. Too big to last, so a few minutes' wait should drop them.
+**First break: checks.** PCs who rush forward hit the barrier. They can guess its rough size. Otherwise:
+- **DC 20 Medicine:** Atriella is unconscious, unhurt, and breathing. The bodies are all dead. *Critical failure:* negative energy killed Atriella without a mark, and a few victims are barely alive.
+- **Identify Varagix** from the symbols and the chant, if not done yet (see [Z2](#z2--grand-reception-hall-trivial-10)). PCs who already did know the ritual is his.
+- **DC 25 Religion or Occultism, or DC 22 Demon Lore:** a hugely boosted demonic *create undead*. The pictures showed a giant behemoth wrecking Rumplank. So it's likely making an enormous undead monster. *Critical failure:* plant-growth magic to make the desert fertile.
+- **DC 25 Arcana:** patterns on the floor point to force fields around the worshippers. The patterns can make more fields. They work like a bigger, stronger *prismatic sphere*: anyone inside is trapped and well protected. They're too big to last, so waiting a few minutes should drop them.
 - **If the PCs explored Z16:** **DC 25 Society** or **DC 20** aesthetics Lore (like Art Lore) matches the g'mayun woman's fashion and colors to that room's owner.
 
-The scene doesn't pause for rolls. Once everyone has declared:
+The scene doesn't pause for rolls. Once everyone has said what they're doing:
 
 > *The g'mayun man does not flinch or hesitate for a moment in his speech, a passionately delivered address packed with typical cult leader propaganda. "Today, my servants, our time has come! The days of living in the shadows are over. Lord Varagix has seen our hard work and unwavering dedication and has chosen to reward them at last. We will take all that is rightfully ours, and those who deserve justice for wronging us will be brought before us and destroyed!" he gesticulates as if to encourage the cultists to chant louder and with more passion, and they respond enthusiastically, their chants growing into a suffocating wall of sound.*
 
@@ -717,9 +770,9 @@ Give the PCs their check results, then continue.
 >
 > *Breaking his unnerving gaze, The Prince redirects his attention to the crowd, "We have the so-called Heroes of Rumplank to thank for fulfilling the prophecy and uniting Poppy's Folly!" With a triumphant flourish, Prince Kulupi reveals the Jewel of the Indigo Isles in both hands, holding it high and aloft. "Yes, the Jewel is complete once again," the prince announces with a roaring voice as the cultists cheer. "The Jewel that Poppy stole! The Jewel that Poppy tried to destroy! She tried to corrupt its purpose... our purpose," Kulupi spits on the ground. "She wanted to be remembered as a great pirate, a beloved hero, but those stories are nothing but lies." The crowd loudly agrees with the prince after each proclamation.*
 
-**Second break: checks and banter.** The PCs can answer Kulupi now or at his first greeting. He may trade a witty retort or two but keeps his momentum.
-- **DC 25 Arcana or Crafting:** the Jewel is the catalyst and will be absorbed into whatever the ritual creates, using its energy and curse. PCs who also identified the ritual realize the undead will likely absorb the Jewel, though its essence might be recovered in a new form if the undead is later destroyed.
-- **DC 25 Perception:** Kulupi's odd look and speech likely signal demonic influence. *Critical success:* he accepted it willingly. *Critical failure:* he must be under duress, because nobody would make such a hammy, long-winded, arrogant speech otherwise.
+**Second break: checks and banter.** The PCs can answer Kulupi now or at his first greeting. He may trade a witty reply or two, but he keeps going.
+- **DC 25 Arcana or Crafting:** the Jewel is the catalyst. Whatever the ritual creates will absorb it and use its energy and curse. PCs who also identified the ritual realize the undead will likely absorb the Jewel. If someone later destroys the undead, they might recover the Jewel's essence in a new form.
+- **DC 25 Perception:** Kulupi's odd look and speech likely mean a demon is influencing him. *Critical success:* he accepted it willingly. *Critical failure:* he must be forced, because nobody would make such a hammy, long-winded, arrogant speech otherwise.
 
 > **🧩 Sets up:** After Chapter 12's final fight, the behemoth's heart gem turns out to hold the Jewel's remaining power.
 
@@ -731,14 +784,14 @@ Give the PCs their check results, then continue.
 >
 > *"But now the island itself shall rise and give its answer unto the indolent and complacent! We shall cleanse this land with blood and fire, destroy all that is Rumplank, and that which rises from the ashes will be glorious once again! And when they do, my dear sister will overcome her delusions of heroism and rise to her true potential. Lord Varagix calls! Rise, Shivering Behemoth!"*
 
-> **🔒 GM-only:** "The great song" is [the Great Song](gm_glossary.md#the-great-song) linking all g'mayuns. The speech flips the [Iris Refrain](gm_glossary.md#iris-refrain) history: the demon-corrupted song becomes "perfect," and the gods the thieves. Chapter 12's cult priests agree (p. 319). A g'mayun PC should find it chilling.
+> **🔒 GM-only:** "The great song" is [the Great Song](gm_glossary.md#the-great-song) that links all g'mayuns. The speech flips the [Iris Refrain](gm_glossary.md#iris-refrain) history. In his version, the demon-corrupted song is "perfect," and the gods are the thieves. Chapter 12's cult priests agree (p. 319). A g'mayun PC should find it chilling.
 
 **Third break: the last few seconds.**
 - **DC 25 Occultism or Religion:** the ritual is about to end. Be ready.
 - **DC 25 Arcana:** the barriers are about to fade.
 - **DC 25 Survival** (only if they worked out it's an undead shale behemoth): the cavern might not survive its rising.
 
-PCs who realize the time is near get **about a round** to prepare to escape. Then everything below happens at once.
+PCs who realize the time is near get **about a round** to get ready to escape. Then everything below happens at once.
 
 ### Read aloud — the behemoth wakes
 
@@ -754,18 +807,18 @@ PCs who realize the time is near get **about a round** to prepare to escape. The
 >
 > *The cultists suddenly snap back to reality, withdrawing hidden weapons with a murderous look in their eyes. The way behind you is blocked, but one way out remains—a newly reopened mining tunnel on the eastern wall.*
 
-- **DC 20 Religion** Recall Knowledge: undead, plainly a monstrous member of the shale spitter family. Any combat ability takes **DC 40 Nature**.
-- The quake collapsed the way back and part of the chamber, opening an old mining tunnel on the **east wall**. Rubble slows the cultists.
-- The PCs could wait out the rubble or bypass it with magic, but the behemoth is beyond them. **NPCs with the PCs flee at once.**
+- **DC 20 Religion** Recall Knowledge: it's undead. It's clearly a monstrous member of the shale spitter family. Learning any combat ability takes **DC 40 Nature**.
+- The quake collapsed the way back and part of the chamber. It opened an old mining tunnel on the **east wall**. Rubble slows the cultists.
+- The PCs could wait out the rubble or get past it with magic. But they can't beat the behemoth. **NPCs with the PCs flee at once.**
 
-> **🔒 GM-only:** The g'mayun woman is [Zellura](gm_glossary.md#zellura), unnamed here. Players who searched Z16 can work it out.
+> **🔒 GM-only:** The g'mayun woman is [Zellura](gm_glossary.md#zellura). Nobody names her here. Players who searched Z16 can work it out.
 
-> **💡 GM tip:** If players hesitate, the NPCs bolting for the tunnel are your cue. The next part is a race.
+> **💡 GM tip:** If players hesitate, the NPCs running for the tunnel are your cue. The next part is a race.
 
 ### If the PCs refuse to flee
 
-Waiting out the rubble or refusing the carts, they're quickly overwhelmed by the army and the behemoth (p. 302). The book offers two options:
-- The behemoth swallows them and makes them **shaleborn**, minds intact, under the undead rules from *Pathfinder Book of the Dead*.
+If they wait out the rubble or refuse the carts, the army and the behemoth soon overwhelm them (p. 302). The book offers two options:
+- The behemoth swallows them and makes them **shaleborn**. They keep their minds. Use the undead rules from *Pathfinder Book of the Dead*.
 - **Peerless Ruby** warns Rumplank, and new heroes answer the call for the finale.
 
 [↑ Back to top](#table-of-contents)
@@ -774,15 +827,15 @@ Waiting out the rubble or refusing the carts, they're quickly overwhelmed by the
 
 ## Part 4 — Minecart Escape
 
-Shortly into the old tunnels waits a runaway mine cart (p. 303).
+A short way into the old tunnels, a runaway mine cart waits (p. 303).
 - **The carts:** big, linked in pairs, each **10 by 15 feet**. One pair holds all the PCs and companions.
 - **Speed 100 feet**, downhill, **no brakes**. Nothing keeps up without carts, even flying. The cult has carts, but the PCs have a head start.
-- **Falling off means being left behind.** You decide whether that PC sneaks out ahead of the army, is caught, or is lost along the way.
-- If the PCs hesitate, make clear the carts are the fastest, safest, maybe only way out.
+- **Falling off means being left behind.** You decide what happens to that PC. They sneak out ahead of the army, get caught, or get lost along the way.
+- If the PCs hesitate, make it clear the carts are the fastest and safest way out. They may be the only way.
 
 Rules: [the mine cart chase](#the-mine-cart-chase-this-books-subsystem). At each branch, give the default skills and DCs for both options.
 
-> **💡 GM tip — variants:** The book's optional tension raisers (p. 303): reveal only the current track's next obstacle, or time the decision. It warns both can frustrate some groups. Use them only if your table likes pressure.
+> **💡 GM tip (variants):** The book offers two optional ways to raise tension (p. 303). Reveal only the next obstacle on the current track. Or put a time limit on the decision. The book warns both can frustrate some groups. Use them only if your table likes pressure.
 
 ### Obstacles
 
@@ -803,16 +856,16 @@ Rules: [the mine cart chase](#the-mine-cart-chase-this-books-subsystem). At each
 
 **Obstacle notes (p. 303–304):**
 - **1a:** the miners built this roller coaster section for fun.
-- **2:** a lava river. Option a hugs it, avoiding lava flows. Option b runs farther off, dodging lava bombs.
-- **3:** crystals once tended by singing underground creatures. The dissonant ones grew wild and lost their song.
-- **4b:** the bats do little damage but disorient.
-- **4a:** the rattling tracks broke a rotting platform overhead, spilling barrels.
-- **5b:** a **curious unraveler** (BB 116) made this track aberrant art. **On a critical success,** it gleefully hints at the chaos ahead. Only lawful PCs take [chaotic damage](#alignment-damage).
-- **6:** describe 6b only as treasure at the tunnel's end. If a PC levers toward it, or the roll sends them, roll a **secret DC 26 Perception** check. Success: they see the illusion, learn its details, and can switch to the barrier.
+- **2:** a lava river. Option a runs close to it and avoids lava flows. Option b runs farther off and dodges lava bombs.
+- **3:** singing underground creatures once tended these crystals. The dissonant ones grew wild and lost their song.
+- **4b:** the bats do little damage, but they confuse the PCs.
+- **4a:** the rattling tracks broke a rotting platform overhead. Barrels spill out.
+- **5b:** a **curious unraveler** (BB 116) turned this track into strange, twisted art. **On a critical success,** it gleefully hints at the chaos ahead. Only lawful PCs take [chaotic damage](#alignment-damage).
+- **6:** describe 6b only as treasure at the tunnel's end. A PC may pull the lever toward it, or the roll may send them there. Either way, roll a **secret DC 26 Perception** check. Success: they see the illusion, learn its details, and can switch to the barrier.
 
-> **⚠️ Gotcha — permanent deafness:** A critical failure on 3b deafens **permanently**. Warn players before they choose it. Removing it takes magic such as *restore senses*.
+> **⚠️ Gotcha (permanent deafness):** A critical failure on 3b deafens **permanently**. Warn players before they choose it. Removing it takes magic such as *restore senses*.
 
-> **💡 GM tip:** Most failures cost 5d6 (about 17), six times over. The minute between obstacles allows potions, spells, and Battle Medicine, not Treat Wounds. Save HP for Event 28.
+> **💡 GM tip:** Most failures cost 5d6 (about 17), six times over. The minute between obstacles allows potions, spells, and Battle Medicine. It doesn't allow Treat Wounds. Save HP for Event 28.
 
 **XP:** **220 XP** per PC for the escape, obstacles included (p. 304).
 
@@ -820,18 +873,18 @@ Rules: [the mine cart chase](#the-mine-cart-chase-this-books-subsystem). At each
 
 ### Event 28 — The Cult Catches Up! *(Moderate 9)*
 
-Right after the final obstacle, one cart of four cultists pulls alongside. The obstacles and branches stopped or slowed every other pursuer.
+Right after the final obstacle, one cart of four cultists pulls up alongside. The obstacles and branches stopped or slowed every other chaser.
 
 > *Just when it looks like you're in the clear, as you race past a river of lava through a massive chamber with a ceiling 100 feet above, a mine cart pulls up alongside your own, with four cultists riding within. As their cart approaches, they scream for your blood, "For Lord Varagix and the Cult of the Shivering Behemoth!"*
 
-**Shivering Behemoth Guards (4)** — p. 298, Creature 7. Initiative: Perception +16. Stats in [Z19](#z19--profane-shrine-moderate-9).
+**Shivering Behemoth Guards (4):** p. 298, Creature 7. Initiative: Perception +16. Stats in [Z19](#z19--profane-shrine-moderate-9).
 - They fight to the death for their demon lord.
 - **Battlefield:** the carts run side by side at equal speed, so treat the p. 305 map as still.
 - Either side can **Leap** between carts or attack at range.
-- **Pushing someone into the lava:** the cart's side gives everyone a **+2 circumstance bonus** against being Shoved out, and a Shoved target can still **Grab an Edge**.
-- Beat these cultists and the PCs leave the caverns without further trouble.
+- **Pushing someone into the lava:** the cart's side gives everyone a **+2 circumstance bonus** against being Shoved out. A Shoved target can still **Grab an Edge**.
+- Once the PCs beat these cultists, they leave the caverns with no more trouble.
 
-> **💡 GM tip:** A guard's free Shove off Shield Block is their scariest move beside lava. Play it up, and remember the +2 and Grab an Edge.
+> **💡 GM tip:** Next to lava, a guard's free Shove after a Shield Block is its scariest move. Play it up. Remember the +2 and Grab an Edge.
 
 > **⚠️ Gotcha:** Clumsy, deafened, and stupefied from the obstacles last **until the end of this fight**. Track them.
 
@@ -841,25 +894,25 @@ Right after the final obstacle, one cart of four cultists pulls alongside. The o
 
 ## Part 5 — Out from the Mountain's Heart
 
-The carts emerge in jungle several miles from the entrance (p. 304). As the PCs start the long walk back, Peerless Ruby finds them.
+The carts come out in jungle several miles from the entrance (p. 304). As the PCs start the long walk back, Peerless Ruby finds them.
 
 > *Though the cart has taken you several miles from the cult's headquarters, it's still a long road back to Rumplank. From the sky, you hear the sound of flapping wings, and, looking up, you see none other than Peerless Ruby soaring overhead. "Welcome back, heroes! I heard the rumbling under the mountain, and my keen sense of story told me one thing above all others—you may be in need of my assistance. Pray tell, what has caused the furrows I see in your brows?"*
 
-She loves a long tale but knows urgency. The moment the PCs say Rumplank is in danger, she cuts them off and orders them to stand back.
+She loves a long tale, but she knows when to hurry. The moment the PCs say Rumplank is in danger, she cuts them off. She tells them to stand back.
 
 > *A glittering light enfolds Peerless Ruby's form. Her body begins to grow, and it doesn't stop until she towers above the canopy, now a gargantuan dragon who dwarfs the size of an elephant. "Behold, my true form! Come with me, oh tiny and mighty, and we shall soar through the sky, back to Barnacle Bay!"*
 
-She insists they ride her back through the clouds, with stunning views of the Indigo Isles.
+She insists they ride her back through the clouds. They get stunning views of the Indigo Isles.
 
 **Peerless Ruby's size (p. 305):**
-- It grants only **more reach and carrying capacity**.
-- It rests on her **sense of self-importance**. **Demoralized** or ego-bruised, she slowly shrinks. The right praise counteracts that.
-- **If the PCs link her to Varagix,** she's confused (she's never heard of him), then furious that a demon claims the majesty of dragons and gems.
+- It gives her only **more reach and carrying capacity**.
+- It depends on her **sense of self-importance**. If she's **demoralized** or her ego is bruised, she slowly shrinks. The right praise undoes that.
+- **If the PCs link her to Varagix,** she's confused at first, because she's never heard of him. Then she's furious that a demon claims the majesty of dragons and gems.
 - **If they ask how she changes size,** see "Peerless Mystery" on p. 277.
 
-> **💡 GM tip:** Flattery is a game mechanic here. Keeping her ego up mid-flight is useful play. Let them have fun with it.
+> **💡 GM tip:** Flattery is a game mechanic here. Keeping her ego up during the flight helps the PCs. Let them have fun with it.
 
-**Looking back:** after a while, the PCs can see the enormous behemoth emerge far off with a large army of cultists and undead before Peerless Ruby outpaces the sight.
+**Looking back:** after a while, the PCs see the enormous behemoth come out far off. A large army of cultists and undead is with it. Then Peerless Ruby flies too far for them to see.
 
 [↑ Back to top](#table-of-contents)
 
@@ -867,11 +920,11 @@ She insists they ride her back through the clouds, with stunning views of the In
 
 ## Concluding the chapter
 
-A few hours after leaving the mountain, crowds gather as Peerless Ruby makes a dramatic landing in [Castle Rumplank](gm_glossary.md#castle-rumplank)'s courtyard. The story continues in Chapter 12, Battle for [Barnacle Bay](gm_glossary.md#barnacle-bay).
+A few hours after leaving the mountain, Peerless Ruby makes a dramatic landing in [Castle Rumplank](gm_glossary.md#castle-rumplank)'s courtyard. Crowds gather. The story continues in Chapter 12, Battle for [Barnacle Bay](gm_glossary.md#barnacle-bay).
 
-**Level up:** **level 10** (milestone *Escaping the Cult Complex*, p. 11). Chapter 12 expects level 10. If not, it suggests XP during defense setup or a small town side quest (p. 306, 308).
+**Level up:** **level 10** (milestone *Escaping the Cult Complex*, p. 11). Chapter 12 expects level 10. If the party isn't there, the book suggests XP during defense setup or a small side quest in town (p. 306, 308).
 
-> **⚠️ Gotcha:** Chapter 12's final fights are hard at level 9. Using XP, check that everyone made 10.
+> **⚠️ Gotcha:** Chapter 12's final fights are hard at level 9. If you use XP, check that everyone reached 10.
 
 [↑ Back to top](#table-of-contents)
 
