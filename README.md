@@ -7,6 +7,8 @@
 > The docs teach as you go. They tell you what each scene is for and which PF2 rules it uses. You learn to GM while you run the campaign.
 >
 > Each chapter also has an eldamon doc. It places eldamon from *Battlezoo Eldamon* into that chapter's scenes, and the PCs can befriend them.
+>
+> You can also read these docs as a website: [ernieayala.github.io/wyn-gm-prep](https://ernieayala.github.io/wyn-gm-prep/). It can read pages out loud, and you can change the text size, font, and light or dark mode. To open it on your own computer, run `site/start.bat`.
 
 ---
 
